@@ -1,0 +1,1342 @@
+              <td>United States</td>\n                                                        <td class=\"text-right\">$119,366.96</td>\n                                                    </tr>\n                                                    <tr>\n                                                        <td>Australia</td>\n                                                        <td class=\"text-right\">$70,261.65</td>\n                                                    </tr>\n                                                    <tr>\n                                                        <td>United Kingdom</td>\n                                                        <td class=\"text-right\">$46,399.22</td>\n                                                    </tr>\n                                                    <tr>\n                                                        <td>Turkey</td>\n                                                        <td class=\"text-right\">$35,364.90</td>\n                                                    </tr>\n                                                    <tr>\n                                                        <td>Germany</td>\n                                                        <td class=\"text-right\">$20,366.96</td>\n                                                    </tr>\n                                                    <tr>\n                                                        <td>France</td>\n                                                        <td class=\"text-right\">$10,366.96</td>\n                                                    </tr>\n                                                    <tr>\n                                                        <td>Australia</td>\n                                                        <td class=\"text-right\">$5,366.96</td>\n                                                    </tr>\n                                                    <tr>\n                                                        <td>Italy</td>\n                                                        <td class=\"text-right\">$1639.32</td>\n                                                    </tr>\n                                                </tbody>\n                                            </table>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div> -->\n                        </div>\n                        <!-- <div class=\"row\">\n                            <div class=\"col-lg-6\">\n                                <div class=\"au-card au-card--no-shadow au-card--no-pad m-b-40\">\n                                    <div class=\"au-card-title\" style=\"background-image:url('images/bg-title-01.jpg');\">\n                                        <div class=\"bg-overlay bg-overlay--blue\"></div>\n                                        <h3>\n                                            <i class=\"zmdi zmdi-account-calendar\"></i>26 April, 2018</h3>\n                                        <button class=\"au-btn-plus\">\n                                            <i class=\"zmdi zmdi-plus\"></i>\n                                        </button>\n                                    </div>\n                                    <div class=\"au-task js-list-load\">\n                                        <div class=\"au-task__title\">\n                                            <p>Tasks for John Doe</p>\n                                        </div>\n                                        <div class=\"au-task-list js-scrollbar3\">\n                                            <div class=\"au-task__item au-task__item--danger\">\n                                                <div class=\"au-task__item-inner\">\n                                                    <h5 class=\"task\">\n                                                        <a href=\"#\">Meeting about plan for Admin Template 2018</a>\n                                                    </h5>\n                                                    <span class=\"time\">10:00 AM</span>\n                                                </div>\n                                            </div>\n                                            <div class=\"au-task__item au-task__item--warning\">\n                                                <div class=\"au-task__item-inner\">\n                                                    <h5 class=\"task\">\n                                                        <a href=\"#\">Create new task for Dashboard</a>\n                                                    </h5>\n                                                    <span class=\"time\">11:00 AM</span>\n                                                </div>\n                                            </div>\n                                            <div class=\"au-task__item au-task__item--primary\">\n                                                <div class=\"au-task__item-inner\">\n                                                    <h5 class=\"task\">\n                                                        <a href=\"#\">Meeting about plan for Admin Template 2018</a>\n                                                    </h5>\n                                                    <span class=\"time\">02:00 PM</span>\n                                                </div>\n                                            </div>\n                                            <div class=\"au-task__item au-task__item--success\">\n                                                <div class=\"au-task__item-inner\">\n                                                    <h5 class=\"task\">\n                                                        <a href=\"#\">Create new task for Dashboard</a>\n                                                    </h5>\n                                                    <span class=\"time\">03:30 PM</span>\n                                                </div>\n                                            </div>\n                                            <div class=\"au-task__item au-task__item--danger js-load-item\">\n                                                <div class=\"au-task__item-inner\">\n                                                    <h5 class=\"task\">\n                                                        <a href=\"#\">Meeting about plan for Admin Template 2018</a>\n                                                    </h5>\n                                                    <span class=\"time\">10:00 AM</span>\n                                                </div>\n                                            </div>\n                                            <div class=\"au-task__item au-task__item--warning js-load-item\">\n                                                <div class=\"au-task__item-inner\">\n                                                    <h5 class=\"task\">\n                                                        <a href=\"#\">Create new task for Dashboard</a>\n                                                    </h5>\n                                                    <span class=\"time\">11:00 AM</span>\n                                                </div>\n                                            </div>\n                                        </div>\n                                        <div class=\"au-task__footer\">\n                                            <button class=\"au-btn au-btn-load js-load-btn\">load more</button>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n                            <div class=\"col-lg-6\">\n                                <div class=\"au-card au-card--no-shadow au-card--no-pad m-b-40\">\n                                    <div class=\"au-card-title\" style=\"background-image:url('images/bg-title-02.jpg');\">\n                                        <div class=\"bg-overlay bg-overlay--blue\"></div>\n                                        <h3>\n                                            <i class=\"zmdi zmdi-comment-text\"></i>New Messages</h3>\n                                        <button class=\"au-btn-plus\">\n                                            <i class=\"zmdi zmdi-plus\"></i>\n                                        </button>\n                                    </div>\n                                    <div class=\"au-inbox-wrap js-inbox-wrap\">\n                                        <div class=\"au-message js-list-load\">\n                                            <div class=\"au-message__noti\">\n                                                <p>You Have\n                                                    <span>2</span>\n\n                                                    new messages\n                                                </p>\n                                            </div>\n                                            <div class=\"au-message-list\">\n                                                <div class=\"au-message__item unread\">\n                                                    <div class=\"au-message__item-inner\">\n                                                        <div class=\"au-message__item-text\">\n                                                            <div class=\"avatar-wrap\">\n                                                                <div class=\"avatar\">\n                                                                    <img src=\"images/icon/avatar-02.jpg\" alt=\"John Smith\">\n                                                                </div>\n                                                            </div>\n                                                            <div class=\"text\">\n                                                                <h5 class=\"name\">John Smith</h5>\n                                                                <p>Have sent a photo</p>\n                                                            </div>\n                                                        </div>\n                                                        <div class=\"au-message__item-time\">\n                                                            <span>12 Min ago</span>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                                <div class=\"au-message__item unread\">\n                                                    <div class=\"au-message__item-inner\">\n                                                        <div class=\"au-message__item-text\">\n                                                            <div class=\"avatar-wrap online\">\n                                                                <div class=\"avatar\">\n                                                                    <img src=\"images/icon/avatar-03.jpg\" alt=\"Nicholas Martinez\">\n                                                                </div>\n                                                            </div>\n                                                            <div class=\"text\">\n                                                                <h5 class=\"name\">Nicholas Martinez</h5>\n                                                                <p>You are now connected on message</p>\n                                                            </div>\n                                                        </div>\n                                                        <div class=\"au-message__item-time\">\n                                                            <span>11:00 PM</span>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                                <div class=\"au-message__item\">\n                                                    <div class=\"au-message__item-inner\">\n                                                        <div class=\"au-message__item-text\">\n                                                            <div class=\"avatar-wrap online\">\n                                                                <div class=\"avatar\">\n                                                                    <img src=\"images/icon/avatar-04.jpg\" alt=\"Michelle Sims\">\n                                                                </div>\n                                                            </div>\n                                                            <div class=\"text\">\n                                                                <h5 class=\"name\">Michelle Sims</h5>\n                                                                <p>Lorem ipsum dolor sit amet</p>\n                                                            </div>\n                                                        </div>\n                                                        <div class=\"au-message__item-time\">\n                                                            <span>Yesterday</span>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                                <div class=\"au-message__item\">\n                                                    <div class=\"au-message__item-inner\">\n                                                        <div class=\"au-message__item-text\">\n                                                            <div class=\"avatar-wrap\">\n                                                                <div class=\"avatar\">\n                                                                    <img src=\"images/icon/avatar-05.jpg\" alt=\"Michelle Sims\">\n                                                                </div>\n                                                            </div>\n                                                            <div class=\"text\">\n                                                                <h5 class=\"name\">Michelle Sims</h5>\n                                                                <p>Purus feugiat finibus</p>\n                                                            </div>\n                                                        </div>\n                                                        <div class=\"au-message__item-time\">\n                                                            <span>Sunday</span>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                                <div class=\"au-message__item js-load-item\">\n                                                    <div class=\"au-message__item-inner\">\n                                                        <div class=\"au-message__item-text\">\n                                                            <div class=\"avatar-wrap online\">\n                                                                <div class=\"avatar\">\n                                                                    <img src=\"images/icon/avatar-04.jpg\" alt=\"Michelle Sims\">\n                                                                </div>\n                                                            </div>\n                                                            <div class=\"text\">\n                                                                <h5 class=\"name\">Michelle Sims</h5>\n                                                                <p>Lorem ipsum dolor sit amet</p>\n                                                            </div>\n                                                        </div>\n                                                        <div class=\"au-message__item-time\">\n                                                            <span>Yesterday</span>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                                <div class=\"au-message__item js-load-item\">\n                                                    <div class=\"au-message__item-inner\">\n                                                        <div class=\"au-message__item-text\">\n                                                            <div class=\"avatar-wrap\">\n                                                                <div class=\"avatar\">\n                                                                    <img src=\"images/icon/avatar-05.jpg\" alt=\"Michelle Sims\">\n                                                                </div>\n                                                            </div>\n                                                            <div class=\"text\">\n                                                                <h5 class=\"name\">Michelle Sims</h5>\n                                                                <p>Purus feugiat finibus</p>\n                                                            </div>\n                                                        </div>\n                                                        <div class=\"au-message__item-time\">\n                                                            <span>Sunday</span>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                            </div>\n                                            <div class=\"au-message__footer\">\n                                                <button class=\"au-btn au-btn-load js-load-btn\">load more</button>\n                                            </div>\n                                        </div>\n                                        <div class=\"au-chat\">\n                                            <div class=\"au-chat__title\">\n                                                <div class=\"au-chat-info\">\n                                                    <div class=\"avatar-wrap online\">\n                                                        <div class=\"avatar avatar--small\">\n                                                            <img src=\"images/icon/avatar-02.jpg\" alt=\"John Smith\">\n                                                        </div>\n                                                    </div>\n                                                    <span class=\"nick\">\n                                                        <a href=\"#\">John Smith</a>\n                                                    </span>\n                                                </div>\n                                            </div>\n                                            <div class=\"au-chat__content\">\n                                                <div class=\"recei-mess-wrap\">\n                                                    <span class=\"mess-time\">12 Min ago</span>\n                                                    <div class=\"recei-mess__inner\">\n                                                        <div class=\"avatar avatar--tiny\">\n                                                            <img src=\"images/icon/avatar-02.jpg\" alt=\"John Smith\">\n                                                        </div>\n                                                        <div class=\"recei-mess-list\">\n                                                            <div class=\"recei-mess\">Lorem ipsum dolor sit amet, consectetur adipiscing elit non iaculis</div>\n                                                            <div class=\"recei-mess\">Donec tempor, sapien ac viverra</div>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                                <div class=\"send-mess-wrap\">\n                                                    <span class=\"mess-time\">30 Sec ago</span>\n                                                    <div class=\"send-mess__inner\">\n                                                        <div class=\"send-mess-list\">\n                                                            <div class=\"send-mess\">Lorem ipsum dolor sit amet, consectetur adipiscing elit non iaculis</div>\n                                                        </div>\n                                                    </div>\n                                                </div>\n                                            </div>\n                                            <div class=\"au-chat-textfield\">\n                                                <form class=\"au-form-icon\">\n                                                    <input class=\"au-input au-input--full au-input--h65\" type=\"text\" placeholder=\"Type a message\">\n                                                    <button class=\"au-input-icon\">\n                                                        <i class=\"zmdi zmdi-camera\"></i>\n                                                    </button>\n                                                </form>\n                                            </div>\n                                        </div>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"row\">\n                            <div class=\"col-md-12\">\n                                <div class=\"copyright\">\n                                    <p>Copyright Â© 2018 Colorlib. All rights reserved. Template by <a href=\"https://colorlib.com\">Colorlib</a>.</p>\n                                </div>\n                            </div>\n                        </div> -->\n                    </div>\n                </div>\n            </div>\n            <!-- END MAIN CONTENT-->\n            <!-- END PAGE CONTAINER-->\n        </div>\n\n    </div>\n\n    <!-- Jquery JS-->\n    <!-- <script src=\"vendor/jquery-3.2.1.min.js\"></script> -->\n    <!-- Bootstrap JS-->\n    <!-- <script src=\"vendor/bootstrap-4.1/popper.min.js\"></script>\n    <script src=\"vendor/bootstrap-4.1/bootstrap.min.js\"></script> -->\n    <!-- Vendor JS       -->\n   <!--  <script src=\"vendor/slick/slick.min.js\">\n    </script>\n    <script src=\"vendor/wow/wow.min.js\"></script>\n    <script src=\"vendor/animsition/animsition.min.js\"></script>\n    <script src=\"vendor/bootstrap-progressbar/bootstrap-progressbar.min.js\">\n    </script>\n    <script src=\"vendor/counter-up/jquery.waypoints.min.js\"></script>\n    <script src=\"vendor/counter-up/jquery.counterup.min.js\">\n    </script>\n    <script src=\"vendor/circle-progress/circle-progress.min.js\"></script>\n    <script src=\"vendor/perfect-scrollbar/perfect-scrollbar.js\"></script>\n    <script src=\"vendor/chartjs/Chart.bundle.min.js\"></script>\n    <script src=\"vendor/select2/select2.min.js\">\n    </script>\n -->\n    <!-- Main JS-->\n    <!-- <script src=\"js/main.js\"></script> -->\n\n<!-- </body> -->\n\n<!-- </html> -->\n<!-- end document-->\n"
+
+/***/ }),
+
+/***/ "./src/app/adminuserstable/adminuserstable.component.ts":
+/*!**************************************************************!*\
+  !*** ./src/app/adminuserstable/adminuserstable.component.ts ***!
+  \**************************************************************/
+/*! exports provided: AdminuserstableComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AdminuserstableComponent", function() { return AdminuserstableComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var AdminuserstableComponent = /** @class */ (function () {
+    function AdminuserstableComponent() {
+    }
+    AdminuserstableComponent.prototype.ngOnInit = function () {
+    };
+    AdminuserstableComponent = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
+            selector: 'app-adminuserstable',
+            template: __webpack_require__(/*! ./adminuserstable.component.html */ "./src/app/adminuserstable/adminuserstable.component.html"),
+            styles: [__webpack_require__(/*! ./adminuserstable.component.css */ "./src/app/adminuserstable/adminuserstable.component.css")]
+        }),
+        __metadata("design:paramtypes", [])
+    ], AdminuserstableComponent);
+    return AdminuserstableComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/app-routing.module.ts":
+/*!***************************************!*\
+  !*** ./src/app/app-routing.module.ts ***!
+  \***************************************/
+/*! exports provided: APP_ROUTES */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "APP_ROUTES", function() { return APP_ROUTES; });
+/* harmony import */ var _adminproductstable_adminproductstable_component__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./adminproductstable/adminproductstable.component */ "./src/app/adminproductstable/adminproductstable.component.ts");
+/* harmony import */ var _loginpage_loginpage_component__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./loginpage/loginpage.component */ "./src/app/loginpage/loginpage.component.ts");
+/* harmony import */ var _newproductsdetails_newproductsdetails_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./newproductsdetails/newproductsdetails.component */ "./src/app/newproductsdetails/newproductsdetails.component.ts");
+/* harmony import */ var _registerpage_registerpage_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./registerpage/registerpage.component */ "./src/app/registerpage/registerpage.component.ts");
+
+
+
+
+var APP_ROUTES = [
+    { path: 'productdetails', component: _adminproductstable_adminproductstable_component__WEBPACK_IMPORTED_MODULE_0__["AdminproductstableComponent"] },
+    // { path: 'userdetails', component: AdminuserstableComponent},
+    { path: 'login', component: _loginpage_loginpage_component__WEBPACK_IMPORTED_MODULE_1__["LoginpageComponent"] },
+    { path: 'products/:id', component: _newproductsdetails_newproductsdetails_component__WEBPACK_IMPORTED_MODULE_2__["NewproductsdetailsComponent"] },
+    { path: 'register', component: _registerpage_registerpage_component__WEBPACK_IMPORTED_MODULE_3__["RegisterpageComponent"] },
+    { path: '', component: _adminproductstable_adminproductstable_component__WEBPACK_IMPORTED_MODULE_0__["AdminproductstableComponent"] },
+];
+// const appRoutes: Routes = [
+//   { path: 'crisis-center', component: CrisisListComponent },
+//   { path: 'hero/:id',      component: HeroDetailComponent },
+// @NgModule({
+//     imports: [RouterModule.forRoot(routes)],
+//     exports: [RouterModule]
+// })
+// export class AppRoutingModule {
+//
+// }
+// export const routingComponents = [ AdminproductstableComponent, AdminuserstableComponent, LoginpageComponent, NewproductsdetailsComponent, RegisterpageComponent]
+
+
+/***/ }),
+
+/***/ "./src/app/app.component.css":
+/*!***********************************!*\
+  !*** ./src/app/app.component.css ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = ".addprdbtn { width: 100%;\r\n  /*float: right;*/\r\n}\r\n.btn btn-info { float: right; }\r\n"
+
+/***/ }),
+
+/***/ "./src/app/app.component.html":
+/*!************************************!*\
+  !*** ./src/app/app.component.html ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<!--<app-firstpage></app-firstpage>-->\r\n<!--<app-adminproductstable></app-adminproductstable>-->\r\n<!-- <app-adminbasicpage></app-adminbasicpage> -->\r\n<!-- <app-ecommercepage></app-ecommercepage> -->\r\n\r\n\r\n\r\n<!-- <app-adminproductstable></app-adminproductstable> -->\r\n<!-- <app-adminuserstable></app-adminuserstable> -->\r\n\r\n  <!--<app-adminsidebar></app-adminsidebar>-->\r\n<!--<app-adminproductstable></app-adminproductstable>-->\r\n <!--<app-adminuserstable></app-adminuserstable>-->\r\n<!--<app-newproductsdetails></app-newproductsdetails>-->\r\n<!--<router-outlet></router-outlet>-->\r\n <!--<app-loginpage></app-loginpage>-->\r\n<app-companypage></app-companypage>\r\n<!-- <app-registerpage></app-registerpage> -->\r\n <!--<app-adminheadingbar></app-adminheadingbar>-->\r\n"
+
+/***/ }),
+
+/***/ "./src/app/app.component.ts":
+/*!**********************************!*\
+  !*** ./src/app/app.component.ts ***!
+  \**********************************/
+/*! exports provided: AppComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppComponent", function() { return AppComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+var AppComponent = /** @class */ (function () {
+    function AppComponent() {
+        this.title = 'auctions';
+    }
+    AppComponent = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
+            selector: 'app-root',
+            template: __webpack_require__(/*! ./app.component.html */ "./src/app/app.component.html"),
+            styles: [__webpack_require__(/*! ./app.component.css */ "./src/app/app.component.css")]
+        })
+    ], AppComponent);
+    return AppComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/app.module.ts":
+/*!*******************************!*\
+  !*** ./src/app/app.module.ts ***!
+  \*******************************/
+/*! exports provided: AppModule */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppModule", function() { return AppModule; });
+/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/platform-browser */ "./node_modules/@angular/platform-browser/fesm5/platform-browser.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/fesm5/forms.js");
+/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
+/* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
+/* harmony import */ var _firstpage_firstpage_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./firstpage/firstpage.component */ "./src/app/firstpage/firstpage.component.ts");
+/* harmony import */ var _newproductsdetails_newproductsdetails_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./newproductsdetails/newproductsdetails.component */ "./src/app/newproductsdetails/newproductsdetails.component.ts");
+/* harmony import */ var _loginpage_loginpage_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./loginpage/loginpage.component */ "./src/app/loginpage/loginpage.component.ts");
+/* harmony import */ var _companypage_companypage_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./companypage/companypage.component */ "./src/app/companypage/companypage.component.ts");
+/* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./app-routing.module */ "./src/app/app-routing.module.ts");
+/* harmony import */ var _adminuserstable_adminuserstable_component__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./adminuserstable/adminuserstable.component */ "./src/app/adminuserstable/adminuserstable.component.ts");
+/* harmony import */ var _adminsidebar_adminsidebar_component__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ./adminsidebar/adminsidebar.component */ "./src/app/adminsidebar/adminsidebar.component.ts");
+/* harmony import */ var _adminheadingbar_adminheadingbar_component__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./adminheadingbar/adminheadingbar.component */ "./src/app/adminheadingbar/adminheadingbar.component.ts");
+/* harmony import */ var _registerpage_registerpage_component__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./registerpage/registerpage.component */ "./src/app/registerpage/registerpage.component.ts");
+/* harmony import */ var _adminproductstable_adminproductstable_component__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./adminproductstable/adminproductstable.component */ "./src/app/adminproductstable/adminproductstable.component.ts");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+// import { AppRoutingModule, routingComponents } from './app-routing.module';
+
+// import { HomepageComponent } from './homepage/homepage.component';
+// import { DashboardComponent } from './dashboard/dashboard.component';
+
+// import { EcommercepageComponent } from './ecommercepage/ecommercepage.component';
+
+
+// import { AdminsidebarComponent} from "./adminsidebar/adminsidebar.component";
+// import { AdminheadingbarComponent } from "./adminheadingbar/adminheadingbar.component";
+
+
+// import { AdminproductstableComponent } from './adminproductstable/adminproductstable.component';
+
+
+
+
+
+// import { CompanylandingpageComponent } from './companylandingpage/companylandingpage.component';
+var AppModule = /** @class */ (function () {
+    function AppModule() {
+    }
+    AppModule = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"])({
+            declarations: [
+                _app_component__WEBPACK_IMPORTED_MODULE_5__["AppComponent"],
+                // HomepageComponent,
+                // DashboardComponent,
+                _firstpage_firstpage_component__WEBPACK_IMPORTED_MODULE_6__["FirstpageComponent"],
+                // EcommercepageComponent,
+                _newproductsdetails_newproductsdetails_component__WEBPACK_IMPORTED_MODULE_7__["NewproductsdetailsComponent"],
+                _loginpage_loginpage_component__WEBPACK_IMPORTED_MODULE_8__["LoginpageComponent"],
+                // AdminpageComponent,
+                _adminproductstable_adminproductstable_component__WEBPACK_IMPORTED_MODULE_15__["AdminproductstableComponent"],
+                _adminuserstable_adminuserstable_component__WEBPACK_IMPORTED_MODULE_11__["AdminuserstableComponent"],
+                // AdminbasicpageComponent,
+                _adminsidebar_adminsidebar_component__WEBPACK_IMPORTED_MODULE_12__["AdminsidebarComponent"],
+                _adminheadingbar_adminheadingbar_component__WEBPACK_IMPORTED_MODULE_13__["AdminheadingbarComponent"],
+                // routingComponents,
+                // CompanylandingpageComponent,
+                _registerpage_registerpage_component__WEBPACK_IMPORTED_MODULE_14__["RegisterpageComponent"],
+                _companypage_companypage_component__WEBPACK_IMPORTED_MODULE_9__["CompanypageComponent"]
+            ],
+            imports: [
+                _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
+                _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormsModule"],
+                _angular_forms__WEBPACK_IMPORTED_MODULE_2__["ReactiveFormsModule"],
+                _angular_common_http__WEBPACK_IMPORTED_MODULE_3__["HttpClientModule"],
+                _angular_router__WEBPACK_IMPORTED_MODULE_4__["RouterModule"].forRoot(_app_routing_module__WEBPACK_IMPORTED_MODULE_10__["APP_ROUTES"])
+            ],
+            providers: [],
+            bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_5__["AppComponent"]]
+        })
+    ], AppModule);
+    return AppModule;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/companypage/companypage.component.css":
+/*!*******************************************************!*\
+  !*** ./src/app/companypage/companypage.component.css ***!
+  \*******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = ".ty { width: 100%; padding: 0px; }\r\n.uu { height: 150px; }\r\n/*.btn4img { padding-left: 300px; }*/\r\n.btn4images { padding-left: 12px; }\r\n.carouselcover { max-height: 1200px; }\r\n/*.cardcarouselsize { max-height: 300px; }*/\r\n.newcarou { max-height: 180px; max-width: 180px; background-color: #0b2e13; }\r\n"
+
+/***/ }),
+
+/***/ "./src/app/companypage/companypage.component.html":
+/*!********************************************************!*\
+  !*** ./src/app/companypage/companypage.component.html ***!
+  \********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<div class=\"page-container\">\n  <!--<div class=\"card-header\">-->\n    <!--<h1>Profile Card</h1>-->\n  <!--</div>-->\n  <br><br><br>\n  <!--<div class=\"col-md-12\">-->\n    <!--<div class=\"card\">-->\n      <!--<div class=\"card-header\">-->\n        <!--<strong class=\"card-title\">Card with Label-->\n          <!--<small>-->\n            <!--<span class=\"badge badge-success float-right mt-1\">Success</span>-->\n          <!--</small>-->\n        <!--</strong>-->\n      <!--</div>-->\n      <!--<div class=\"card-body\">-->\n        <!--&lt;!&ndash;<img _ngcontent-c2=\"\" alt=\"Card image cap\" class=\"card-img-top\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\">&ndash;&gt;-->\n        <!--<div id=\"carouselExampleIndicators\" class=\"carousel slide\" data-ride=\"carousel\">-->\n          <!--<ol class=\"carousel-indicators\">-->\n            <!--<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"0\" class=\"active\"></li>-->\n            <!--<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"1\"></li>-->\n            <!--<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"2\"></li>-->\n          <!--</ol>-->\n          <!--<div class=\"carousel-inner\">-->\n            <!--<div class=\"carousel-item active\">-->\n              <!--<img class=\"d-block w-100\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"First slide\">-->\n            <!--</div>-->\n            <!--<div class=\"carousel-item\">-->\n              <!--<img class=\"d-block w-100\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\" alt=\"Second slide\">-->\n            <!--</div>-->\n            <!--<div class=\"carousel-item\">-->\n              <!--<img class=\"d-block w-100\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\" alt=\"Third slide\">-->\n            <!--</div>-->\n          <!--</div>-->\n          <!--<a class=\"carousel-control-prev\" href=\"#carouselExampleIndicators\" role=\"button\" data-slide=\"prev\">-->\n            <!--<span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"></span>-->\n            <!--<span class=\"sr-only\">Previous</span>-->\n          <!--</a>-->\n          <!--<a class=\"carousel-control-next\" href=\"#carouselExampleIndicators\" role=\"button\" data-slide=\"next\">-->\n            <!--<span class=\"carousel-control-next-icon\" aria-hidden=\"true\"></span>-->\n            <!--<span class=\"sr-only\">Next</span>-->\n          <!--</a>-->\n        <!--</div>-->\n        <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n          <!--content.-->\n        <!--</p>-->\n      <!--</div>-->\n    <!--</div>-->\n  <!--</div>-->\n  <!--<div class=\"carouselcover\">-->\n  <!--<div class=\"row\">-->\n    <!--<div class=\"col-lg-12\">-->\n      <!--<div class=\"card cardcarouselsize\">-->\n        <!--<div class=\"card-header\">-->\n          <!--<strong class=\"card-title mb-3\">Profile Card</strong>-->\n        <!--</div>-->\n        <!--<div class=\"card-body\">-->\n          <!--<div class=\"mx-auto d-block\">-->\n            <!--&lt;!&ndash;<img class=\"mx-auto d-block ty\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\" alt=\"Card image cap\">&ndash;&gt;-->\n            <!--<div id=\"carouselExampleIndicators\" class=\"carousel slide\" data-ride=\"carousel\">-->\n              <!--<ol class=\"carousel-indicators\">-->\n                <!--<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"0\" class=\"active\"></li>-->\n                <!--<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"1\"></li>-->\n                <!--<li data-target=\"#carouselExampleIndicators\" data-slide-to=\"2\"></li>-->\n              <!--</ol>-->\n              <!--<div class=\"carousel-inner\">-->\n                <!--<div class=\"carousel-item active\">-->\n                  <!--<img class=\"d-block w-100\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\" alt=\"First slide\">-->\n                <!--</div>-->\n                <!--<div class=\"carousel-item\">-->\n                  <!--<img class=\"d-block w-100\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\" alt=\"Second slide\">-->\n                <!--</div>-->\n                <!--<div class=\"carousel-item\">-->\n                  <!--<img class=\"d-block w-100\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\" alt=\"Third slide\">-->\n                <!--</div>-->\n              <!--</div>-->\n              <!--<a class=\"carousel-control-prev\" href=\"#carouselExampleIndicators\" role=\"button\" data-slide=\"prev\">-->\n                <!--<span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"></span>-->\n                <!--<span class=\"sr-only\">Previous</span>-->\n              <!--</a>-->\n              <!--<a class=\"carousel-control-next\" href=\"#carouselExampleIndicators\" role=\"button\" data-slide=\"next\">-->\n                <!--<span class=\"carousel-control-next-icon\" aria-hidden=\"true\"></span>-->\n                <!--<span class=\"sr-only\">Next</span>-->\n              <!--</a>-->\n            <!--</div>-->\n            <!--<br>-->\n            <!--<div class=\"btn4img\">-->\n              <!--<button type=\"button\" class=\"btn btn-secondary btn-lg btn-block\">MORE INFO</button>-->\n            <!--</div>-->\n            <!--<h5 class=\"text-sm-center mt-2 mb-1\">Steven Lee</h5>-->\n            <!--<div class=\"location text-sm-center\">-->\n              <!--<i class=\"fa fa-map-marker\"></i> California, United States</div>-->\n          <!--</div>-->\n          <!--<hr>-->\n          <!--<div class=\"card-text text-sm-center\">-->\n            <!--<a href=\"#\">-->\n              <!--<i class=\"fa fa-facebook pr-1\"></i>-->\n            <!--</a>-->\n            <!--<a href=\"#\">-->\n              <!--<i class=\"fa fa-twitter pr-1\"></i>-->\n            <!--</a>-->\n            <!--<a href=\"#\">-->\n              <!--<i class=\"fa fa-linkedin pr-1\"></i>-->\n            <!--</a>-->\n            <!--<a href=\"#\">-->\n              <!--<i class=\"fa fa-pinterest pr-1\"></i>-->\n            <!--</a>-->\n          <!--</div>-->\n        <!--</div>-->\n      <!--</div>-->\n    <!--</div>-->\n  <!--</div>-->\n  <!--</div>-->\n\n  <!-- MAIN CONTENT-->\n<div class=\"main-content\">\n\n  <div class=\"section__content section__content--p30\">\n\n    <div class=\"container-fluid\">\n      <div class=\"row\">\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n                <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n              <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <!--<h4 class=\"card-title mb-3\">Card Image Title</h4>-->\n              <!--<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's-->\n              <!--content.<span class=\"d\"><a href=\"#\" class=\"btn btn-light btn-sm\">MORE..</a></span>-->\n              <!--</p>-->\n              <div class=\"btn4images\">\n                <button type=\"button\" class=\"btn btn-light\">MORE ABOUT THIS PRODUCT</button>\n              </div>\n            </div>\n          </div>\n        </div>\n\n\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <h4 class=\"card-title mb-3\">Card Image Title</h4>\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n           <div class=\"card-body\">\n              <div class=\"mx-auto d-block\">\n                <img class=\"rounded-circle mx-auto d-block\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\" alt=\"Card image cap\">\n                <h5 class=\"text-sm-center mt-2 mb-1\">Steven Lee</h5>\n                <div class=\"location text-sm-center\">\n                 <i class=\"fa fa-map-marker\"></i> California, United States</div>\n              </div>\n              <hr>\n              <div class=\"card-text text-sm-center\">\n                <a href=\"#\">\n                  <i class=\"fa fa-facebook pr-1\"></i>\n                </a>\n                <a href=\"#\">\n                <i class=\"fa fa-twitter pr-1\"></i>\n                </a>\n                <a href=\"#\">\n                <i class=\"fa fa-linkedin pr-1\"></i>\n               </a>\n               <a href=\"#\">\n              <i class=\"fa fa-pinterest pr-1\"></i>\n              </a>\n             </div>\n            </div>\n          <div class=\"card-footer\">\n        <strong class=\"card-title mb-3\">Profile Card</strong>\n        </div>\n        </div>\n        </div>\n\n\n\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <div class=\"card-header\">\n              <i class=\"fa fa-user\"></i>\n              <strong class=\"card-title pl-2\">Profile Card</strong>\n            </div>\n            <div class=\"card-body\">\n              <div class=\"mx-auto d-block\">\n                <img class=\"rounded-circle mx-auto d-block\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\" alt=\"Card image cap\">\n                <h5 class=\"text-sm-center mt-2 mb-1\">Steven Lee</h5>\n                <div class=\"location text-sm-center\">\n                  <i class=\"fa fa-map-marker\"></i> California, United States</div>\n              </div>\n              <hr>\n              <div class=\"card-text text-sm-center\">\n                <a href=\"#\">\n                  <i class=\"fa fa-facebook pr-1\"></i>\n                </a>\n                <a href=\"#\">\n                  <i class=\"fa fa-twitter pr-1\"></i>\n                </a>\n                <a href=\"#\">\n                  <i class=\"fa fa-linkedin pr-1\"></i>\n                </a>\n                <a href=\"#\">\n                  <i class=\"fa fa-pinterest pr-1\"></i>\n                </a>\n              </div>\n            </div>\n          </div>\n        </div>\n\n\n        <div class=\"col-md-4\">\n          <aside class=\"profile-nav alt\">-->\n            <section class=\"card\">\n              <div class=\"card-header user-header alt bg-dark\">\n                <div class=\"media\">\n                  <a href=\"#\">\n                    <img class=\"align-self-center rounded-circle mr-3\" style=\"width:85px; height:85px;\" alt=\"\" src=\"src/assets/realauctions/images/icon/avatar-01.jpg\">\n                  </a>\n                  <div class=\"media-body\">\n                    <h2 class=\"text-light display-6\">Jim Doe</h2>\n                    <p>Project Manager</p>\n                  </div>\n                </div>\n              </div>\n\n\n              <ul class=\"list-group list-group-flush\">\n                <li class=\"list-group-item\">\n                  <a href=\"#\">\n                    <i class=\"fa fa-envelope-o\"></i> Mail Inbox\n                    <span class=\"badge badge-primary pull-right\">10</span>\n                  </a>\n                </li>\n                <li class=\"list-group-item\">\n                  <a href=\"#\">\n                    <i class=\"fa fa-tasks\"></i> Recent Activity\n                    <span class=\"badge badge-danger pull-right\">15</span>\n                  </a>\n                </li>\n                <li class=\"list-group-item\">\n                  <a href=\"#\">\n                    <i class=\"fa fa-bell-o\"></i> Notification\n                    <span class=\"badge badge-success pull-right\">11</span>\n                  </a>\n                </li>\n                <li class=\"list-group-item\">\n                  <a href=\"#\">\n                    <i class=\"fa fa-comments-o\"></i> Message\n                    <span class=\"badge badge-warning pull-right r-activity\">03</span>\n                  </a>\n                </li>\n              </ul>\n\n            </section>\n          </aside>\n        </div>\n\n\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <div class=\"card-header\">\n              <strong class=\"card-title\">Card with switch</strong>\n            </div>\n            <div class=\"card-body\">\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <div class=\"card-header\">\n              <strong class=\"card-title\">Card with Label\n                <small>\n                  <span class=\"badge badge-success float-right mt-1\">Success</span>\n                </small>\n              </strong>\n            </div>\n            <div class=\"card-body\">\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <div class=\"card-header\">\n              <strong class=\"card-title\">Card with Label\n                <small>\n                  <span class=\"badge badge-danger float-right mt-1\">49</span>\n                </small>\n              </strong>\n            </div>\n            <div class=\"card-body\">\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n\n\n\n        <div class=\"col-md-4\">\n          <div class=\"card border border-primary\">\n            <div class=\"card-header\">\n              <strong class=\"card-title\">Card Outline</strong>\n            </div>\n            <div class=\"card-body\">\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n\n\n        <div class=\"col-md-4\">\n          <div class=\"card border border-secondary\">\n            <div class=\"card-header\">\n              <strong class=\"card-title\">Card Outline</strong>\n            </div>\n            <div class=\"card-body\">\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n\n\n        <div class=\"col-md-4\">\n          <div class=\"card border border-success\">\n            <div class=\"card-header\">\n              <strong class=\"card-title\">Card Outline</strong>\n            </div>\n            <div class=\"card-body\">\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n\n\n\n        <div class=\"col-md-4\">\n          <div class=\"card bg-danger\">\n            <div class=\"card-body\">\n              <blockquote class=\"blockquote mb-0\">\n                <p class=\"text-light\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat\n                  a ante.</p>\n                <footer class=\"blockquote-footer text-light\">Someone famous in\n                  <cite title=\"Source Title\">Source Title</cite>\n                </footer>\n              </blockquote>\n            </div>\n          </div>\n        </div>\n\n        <div class=\"col-md-4\">\n          <div class=\"card bg-warning\">\n            <div class=\"card-body\">\n              <blockquote class=\"blockquote mb-0 text-light\">\n                <p class=\"text-light\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat\n                  a ante.</p>\n                <footer class=\"blockquote-footer text-light\">Someone famous in\n                  <cite title=\"Source Title\">Source Title</cite>\n                </footer>\n              </blockquote>\n            </div>\n          </div>\n        </div>\n\n        <div class=\"col-md-4\">\n          <div class=\"card bg-primary\">\n            <div class=\"card-body\">\n              <blockquote class=\"blockquote mb-0 text-light\">\n                <p class=\"text-light\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat\n                  a ante.</p>\n                <footer class=\"blockquote-footer text-light\">Someone famous in\n                  <cite title=\"Source Title\">Source Title</cite>\n                </footer>\n              </blockquote>\n            </div>\n          </div>\n        </div>\n\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <div class=\"card-header bg-secondary\">\n              <strong class=\"card-title text-light\">Card Header</strong>\n            </div>\n            <div class=\"card-body text-white bg-primary\">\n              <p class=\"card-text text-light\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <div class=\"card-header bg-dark\">\n              <strong class=\"card-title text-light\">Card Header</strong>\n            </div>\n            <div class=\"card-body text-white bg-danger\">\n              <p class=\"card-text text-light\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <div class=\"card-header bg-success\">\n              <strong class=\"card-title text-light\">Card Header</strong>\n            </div>\n            <div class=\"card-body text-white bg-warning\">\n              <p class=\"card-text text-light\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n\n\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <h4 class=\"card-title mb-3\">Card Image Title</h4>\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <h4 class=\"card-title mb-3\">Card Image Title</h4>\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-md-4\">\n          <div class=\"card\">\n            <img class=\"card-img-top\" src=\"src/assets/realauctions/images/bg-title-01.jpg\" alt=\"Card image cap\">\n            <div class=\"card-body\">\n              <h4 class=\"card-title mb-3\">Card Image Title</h4>\n              <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's\n                content.\n              </p>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n  <div class=\"newcarou\"></div>\n</div>\n</div>\n<!--</div>-->\n<!-- END PAGE CONTAINER-->\n\n<!--</div>-->\n"
+
+/***/ }),
+
+/***/ "./src/app/companypage/companypage.component.ts":
+/*!******************************************************!*\
+  !*** ./src/app/companypage/companypage.component.ts ***!
+  \******************************************************/
+/*! exports provided: CompanypageComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CompanypageComponent", function() { return CompanypageComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var CompanypageComponent = /** @class */ (function () {
+    function CompanypageComponent() {
+    }
+    CompanypageComponent.prototype.ngOnInit = function () {
+    };
+    CompanypageComponent = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
+            selector: 'app-companypage',
+            template: __webpack_require__(/*! ./companypage.component.html */ "./src/app/companypage/companypage.component.html"),
+            styles: [__webpack_require__(/*! ./companypage.component.css */ "./src/app/companypage/companypage.component.css")]
+        }),
+        __metadata("design:paramtypes", [])
+    ], CompanypageComponent);
+    return CompanypageComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/firstpage/firstpage.component.css":
+/*!***************************************************!*\
+  !*** ./src/app/firstpage/firstpage.component.css ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/* .deep{\r\n  height: 1700px;\r\n} */\r\n.r { padding-left: 270px; }\r\n.r { color: rgb(199, 196, 196); }\r\n/* .btn btn-secondary mb-1 {  } */\r\n/* .t { padding-left: 200px; } */\r\n.statistic { height: 1700px; width: 100% }\r\n/* card-img-top {\r\n  width: 100%;\r\n  border-top-left-radius: calc(.25rem - 1px);\r\n  border-top-right-radius: calc(.25rem - 1px);\r\n} */\r\n.tpop { height: 700px; width: 100%; }\r\n/* .g { background-color: rgb(241, 238, 238); border-bottom: fuchsia;  } */\r\n.bg-gradient {\r\n    background: #C9D6FF; \r\n    background: linear-gradient(to right, #E2E2E2, #C9D6FF);\r\n    }\r\nul li {\r\n      margin-bottom:1.4rem;\r\n    }\r\n.pricing-divider {\r\n    border-radius: 20px;\r\n    background: #C64545;\r\n    padding: 1em 0 4em;\r\n    position: relative;\r\n    }\r\n.blue .pricing-divider{\r\n    background: #2D5772; \r\n    }\r\n.green .pricing-divider {\r\n    background: #1AA85C; \r\n    }\r\n.red b {\r\n      color:#C64545\r\n    }\r\n.blue b {\r\n      color:#2D5772\r\n    }\r\n.green b {\r\n      color:#1AA85C\r\n    }\r\n.pricing-divider-img {\r\n        position: absolute;\r\n        bottom: -2px;\r\n        left: 0;\r\n        width: 100%;\r\n        height: 80px;\r\n    }\r\n.deco-layer {\r\n        transition: -webkit-transform 0.5s;\r\n        transition: transform 0.5s;\r\n        transition: transform 0.5s, -webkit-transform 0.5s;\r\n    }\r\n.btn-custom  {\r\n      background:#C64545; color:#fff; border-radius:20px\r\n    }\r\n.img-float {\r\n      width:50px; position:absolute;top:-3.5rem;right:1rem\r\n    }\r\n.princing-item {\r\n      transition: all 150ms ease-out;\r\n    }\r\n.princing-item:hover {\r\n      -webkit-transform: scale(1.05);\r\n              transform: scale(1.05);\r\n    }\r\n.princing-item:hover .deco-layer--1 {\r\n      -webkit-transform: translate3d(15px, 0, 0);\r\n      transform: translate3d(15px, 0, 0);\r\n    }\r\n.princing-item:hover .deco-layer--2 {\r\n      -webkit-transform: translate3d(-15px, 0, 0);\r\n      transform: translate3d(-15px, 0, 0);\r\n    }\r\n    \r\n    \r\n    "
+
+/***/ }),
+
+/***/ "./src/app/firstpage/firstpage.component.html":
+/*!****************************************************!*\
+  !*** ./src/app/firstpage/firstpage.component.html ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<!-- <div class=\"animsition\"> -->\n<div class=\"page-wrapper\">\n<header class=\"header-desktop3 d-none d-lg-block\">\n    <div class=\"section__content section__content--p35\">\n        <div class=\"header3-wrap\">\n            <div class=\"header__logo\">\n                <a href=\"#\">\n                    <img src=\"src/assets/realauctions/images/icon/logo-white.png\" alt=\"CoolAdmin\" />\n                </a>\n            </div>\n            <div class=\"header__navbar\">\n                <ul class=\"list-unstyled\">\n                    <li class=\"has-sub\">\n                        <a href=\"#\">\n                            <i class=\"fas fa-tachometer-alt\"></i>Home\n                            <span class=\"bot-line\"></span>\n                        </a>\n                        <ul class=\"header3-sub-list list-unstyled\">\n                            <li>\n                                <a href=\"index.html\">Dashboard 1</a>\n                            </li>\n                            <li>\n                                <a href=\"index2.html\">Dashboard 2</a>\n                            </li>\n                            <li>\n                                <a href=\"index3.html\">Dashboard 3</a>\n                            </li>\n                            <li>\n                                <a href=\"index4.html\">Dashboard 4</a>\n                            </li>\n                        </ul>\n                    </li>\n                    <li>\n                        <a href=\"#\">\n                            <i class=\"fas fa-shopping-basket\"></i>\n                            <span class=\"bot-line\"></span>About Us</a>\n                    </li>\n                    <li class=\"has-sub\">\n                            <a href=\"#\">\n                                <i class=\"fas fa-desktop\"></i>\n                                <span class=\"bot-line\"></span>UI Elements</a>\n                            <ul class=\"header3-sub-list list-unstyled\">\n                                <li>\n                                    <a href=\"button.html\">Button</a>\n                                </li>\n                                <li>\n                                    <a href=\"badge.html\">Badges</a>\n                                </li>\n                                <li>\n                                    <a href=\"tab.html\">Tabs</a>\n                                </li>\n                                <li>\n                                    <a href=\"card.html\">Cards</a>\n                                </li>\n                                <li>\n                                    <a href=\"alert.html\">Alerts</a>\n                                </li>\n                                <li>\n                                    <a href=\"progress-bar.html\">Progress Bars</a>\n                                </li>\n                                <li>\n                                    <a href=\"modal.html\">Modals</a>\n                                </li>\n                                <li>\n                                    <a href=\"switch.html\">Switchs</a>\n                                </li>\n                                <li>\n                                    <a href=\"grid.html\">Grids</a>\n                                </li>\n                                <li>\n                                    <a href=\"fontawesome.html\">FontAwesome</a>\n                                </li>\n                                <li>\n                                    <a href=\"typo.html\">Typography</a>\n                                </li>\n                            </ul>\n                     </li>\n                    <li class=\"has-sub\">\n                                <a href=\"#\">\n                                    <i class=\"fas fa-copy\"></i>\n                                    <span class=\"bot-line\"></span>Register</a>\n                                <ul class=\"header3-sub-list list-unstyled\">\n                                    <li>\n                                        <a href=\"login.html\">Login</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"register.html\">Register</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"forget-pass.html\">Forget Password</a>\n                                    </li>\n                                </ul>\n                     </li>\n                    <li class=\"r\" data-toggle=\"modal\" data-target=\"#smallmodal\">\n                         <!--<a href=\"\">-->\n                            <i class=\"fas fa-trophy\"></i>\n                            <span class=\"bot-line\"></span>Login\n                         <!--</a>-->\n                    </li>\n\n\n                </ul>\n            </div>\n\n        </div>\n    </div>\n</header>\n        <!-- PAGE CONTENT-->\n\n       <!-- <div class=\"page-content--bgf7\"> -->\n            <!-- <div class=\"t\"> -->\n                <!-- <button type=\"button\"  class=\"btn btn-secondary mb-1 t\" data-toggle=\"modal\" data-target=\"#smallmodal\">\n                        Small\n                    </button> -->\n                    <!-- </div> -->\n\n               <!-- modal small -->\n\t\t\t<div class=\"modal fade\" id=\"smallmodal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"smallmodalLabel\" aria-hidden=\"true\">\n                    <div class=\"modal-dialog modal-sm\" role=\"document\">\n                        <div class=\"modal-content\">\n                            <div class=\"modal-header\">\n                                <h5 class=\"modal-title\" id=\"smallmodalLabel\">Small Modal</h5>\n                                <button type=\"button\" class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\">\n                                    <span aria-hidden=\"true\">&times;</span>\n                                </button>\n                            </div>\n                            <div class=\"modal-body\">\n                                <!-- <p>\n                                    There are three species of zebras: the plains zebra, the mountain zebra and the GrÃ©vy's zebra. The plains zebra and the mountain\n                                    zebra belong to the subgenus Hippotigris, but GrÃ©vy's zebra is the sole species of subgenus Dolichohippus. The latter\n                                    resembles an ass, to which it is closely related, while the former two are more horse-like. All three belong to the\n                                    genus Equus, along with other living equids.\n                                </p> -->\n                                <!-- <div class=\"login-form\"> -->\n                                        <!-- <form action=\"\" method=\"post\"> -->\n                                            <form  #registrationForm=\"ngForm\" (ngSubmit)=\"onSubmit(registrationForm)\">\n                                              <div class=\"form-group\">\n                                                  <!-- <label>Name</label> -->\n                                                  <input class=\"au-input au-input--full\" type=\"hidden\" name=\"_id\" #_id=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration._id\">\n                                              </div>\n                                              <div class=\"form-group\">\n                                                <label>Name</label>\n                                                <input class=\"au-input au-input--full\" type=\"text\" placeholder=\"Firstname\" name=\"name\" #_name=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration._name\">\n                                            </div>\n                                            <div class=\"form-group\">\n                                              <label>Surname</label>\n                                              <input class=\"au-input au-input--full\" type=\"text\" placeholder=\"Surname\" name=\"surname\" #id=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration.surname\">\n                                          </div>\n                                          <div class=\"form-group\">\n                                              <label>username</label>\n                                              <input class=\"au-input au-input--full\" type=\"text\" placeholder=\"username\" name=\"username\" #_id=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration.username\">\n                                          </div>\n                                            <div class=\"form-group\">\n                                                <label>Password</label>\n                                                <input class=\"au-input au-input--full\" type=\"password\" name=\"password\" placeholder=\"Password\" name=\"password\" #_id=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration.password\">\n                                            </div>\n                                             <div class=\"login-checkbox\">\n                                                <label>\n                                                    <input type=\"checkbox\" name=\"remember\">Remember Me\n                                                </label>\n                                                <label>\n                                                    <a href=\"#\">Forgotten Password?</a>\n                                                </label>\n                                            </div>\n                                            <button class=\"au-btn au-btn--block au-btn--green m-b-20\" type=\"submit\" [disabled]=\"!registrationForm.valid\">Submit</button><br>\n                                            <button class=\"btn btn--block au-btn--green m-b-20\" type=\"button\"  (click)=\"resetForm(registrationForm)\">Reset\"</button><br>\n\n                                             <div class=\"social-login-content\">\n                                                <div class=\"social-button\">\n                                                    <button class=\"au-btn au-btn--block au-btn--blue m-b-20\">sign in with facebook</button>\n                                                    <button class=\"au-btn au-btn--block au-btn--blue2\">sign in with twitter</button>\n                                                </div>\n                                            </div>\n                                        </form>\n                                        <div class=\"register-link\">\n                                            <p>\n                                                Don't you have account?\n                                                <a href=\"#\">Sign Up Here</a>\n                                            </p>\n                                        </div>\n                                    <!-- </div> -->\n                            </div>\n                            <div class=\"modal-footer\">\n                                <button type=\"button\" class=\"btn btn-secondary\" data-dismiss=\"modal\">Cancel</button>\n                                <button type=\"button\" class=\"btn btn-primary\">Confirm</button>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <!-- end modal small -->\n\n            <!-- BREADCRUMB-->\n            <!-- <section class=\"au-breadcrumb2\">\n                <div class=\"container\">\n                    <div class=\"row\">\n                        <div class=\"col-md-12\">\n                            <div class=\"au-breadcrumb-content\">\n                                <div class=\"au-breadcrumb-left\">\n                                    <span class=\"au-breadcrumb-span\">You are here:</span>\n                                    <ul class=\"list-unstyled list-inline au-breadcrumb__list\">\n                                        <li class=\"list-inline-item active\">\n                                            <a href=\"#\">Home</a>\n                                        </li>\n                                        <li class=\"list-inline-item seprate\">\n                                            <span>/</span>\n                                        </li>\n                                        <li class=\"list-inline-item\">Dashboard</li>\n                                    </ul>\n                                </div>\n                                <form class=\"au-form-icon--sm\" action=\"\" method=\"post\">\n                                    <input class=\"au-input--w300 au-input--style2\" type=\"text\" placeholder=\"Search for datas &amp; reports...\">\n                                    <button class=\"au-btn--submit2\" type=\"submit\">\n                                        <i class=\"zmdi zmdi-search\"></i>\n                                    </button>\n                                </form>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </section> -->\n            <!-- END BREADCRUMB-->\n\n            <!-- WELCOME-->\n            <!-- <section class=\"welcome p-t-10\">\n                <div class=\"container\">\n                    <div class=\"row\">\n                        <div class=\"col-md-12\">\n                            <h1 class=\"title-4\">Welcome back\n                                <span>John!</span>\n                            </h1>\n                            <hr class=\"line-seprate\">\n                        </div>\n                    </div>\n                </div>\n            </section> -->\n            <!-- END WELCOME-->\n\n            <!-- STATISTIC-->\n            <section class=\"\">\n                <!-- <div class=\"g\">\n                    <h4>WELCOME TO AUCTIONS NG!</h4>\n                </div> -->\n                    <div class=\"row\">\n                            <div class=\"col-md-12 col-lg-12 deep\">\n                                    <img class=\"tpop\" src=\"src/assets/realauctions/images/icon/auction1.jpg\" alt=\"Card image cap\">\n                            </div>\n                    </div>\n                <!-- <div class=\"container\"> -->\n                    <div class=\"row\">\n                        <div class=\"col-md-12 col-lg-12 deep\">\n                            <div class=\"statistic__item\">\n                                    <img class=\"tpop\" src=\"src/assets/realauctions/images/icon/auction1.jpg\" alt=\"Card image cap\">\n                                <h2 class=\"number\">10,368</h2>\n                                <span class=\"desc\">members online</span>\n                                <div class=\"icon\">\n                                    <i class=\"zmdi zmdi-account-o\"></i>\n                                </div>\n                            </div>\n                        </div>\n                        <!-- <div class=\"col-md-6 col-lg-3\">\n                            <div class=\"statistic__item statistic__item--orange\">\n                                <h2 class=\"number\">388,688</h2>\n                                <span class=\"desc\">items sold</span>\n                                <div class=\"icon\">\n                                    <i class=\"zmdi zmdi-shopping-cart\"></i>\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"col-md-6 col-lg-3\">\n                            <div class=\"statistic__item statistic__item--blue\">\n                                <h2 class=\"number\">1,086</h2>\n                                <span class=\"desc\">this week</span>\n                                <div class=\"icon\">\n                                    <i class=\"zmdi zmdi-calendar-note\"></i>\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"col-md-6 col-lg-3\">\n                            <div class=\"statistic__item statistic__item--red\">\n                                <h2 class=\"number\">$1,060,386</h2>\n                                <span class=\"desc\">total earnings</span>\n                                <div class=\"icon\">\n                                    <i class=\"zmdi zmdi-money\"></i>\n                                </div>\n                            </div>\n                        </div> -->\n                    </div>\n                <!-- </div> -->\n            </section>\n            <!-- END STATISTIC-->\n<!-- </div> -->\n</div>\n<!-- </div> -->\n"
+
+/***/ }),
+
+/***/ "./src/app/firstpage/firstpage.component.ts":
+/*!**************************************************!*\
+  !*** ./src/app/firstpage/firstpage.component.ts ***!
+  \**************************************************/
+/*! exports provided: FirstpageComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FirstpageComponent", function() { return FirstpageComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var FirstpageComponent = /** @class */ (function () {
+    function FirstpageComponent() {
+    }
+    FirstpageComponent.prototype.ngOnInit = function () {
+    };
+    FirstpageComponent = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
+            selector: 'app-firstpage',
+            template: __webpack_require__(/*! ./firstpage.component.html */ "./src/app/firstpage/firstpage.component.html"),
+            styles: [__webpack_require__(/*! ./firstpage.component.css */ "./src/app/firstpage/firstpage.component.css")]
+        }),
+        __metadata("design:paramtypes", [])
+    ], FirstpageComponent);
+    return FirstpageComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/loginpage/loginpage.component.css":
+/*!***************************************************!*\
+  !*** ./src/app/loginpage/loginpage.component.css ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = ""
+
+/***/ }),
+
+/***/ "./src/app/loginpage/loginpage.component.html":
+/*!****************************************************!*\
+  !*** ./src/app/loginpage/loginpage.component.html ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<!-- <p>\n  loginpage works!\n</p> -->\n<div class=\"page-wrapper\">\n  <div class=\"page-content--bge5\">\n      <div class=\"container\">\n          <div class=\"login-wrap\">\n              <div class=\"login-content\">\n                  <div class=\"login-logo\">\n                      <a href=\"#\">\n                          <img src=\"src/assets/realauctions/images/icon/logo.png\" alt=\"CoolAdmin\">\n                      </a>\n                  </div>\n                  <div class=\"login-form\">\n                      <!-- <form action=\"\" method=\"post\"> -->\n                          <form  #registrationForm=\"ngForm\" (ngSubmit)=\"onSubmit(registrationForm)\">\n                            <div class=\"form-group\">\n                                <!-- <label>Name</label> -->\n                                <input class=\"au-input au-input--full\" type=\"hidden\" name=\"_id\" #_id=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration._id\">\n                            </div>\n                            <div class=\"form-group\">\n                              <label>Name</label>\n                              <input class=\"au-input au-input--full\" type=\"text\" placeholder=\"Firstname\" name=\"name\" #_name=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration._name\">\n                          </div>\n                          <div class=\"form-group\">\n                            <label>Surname</label>\n                            <input class=\"au-input au-input--full\" type=\"text\" placeholder=\"Surname\" name=\"surname\" #id=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration.surname\">\n                        </div>\n                        <div class=\"form-group\">\n                            <label>username</label>\n                            <input class=\"au-input au-input--full\" type=\"text\" placeholder=\"username\" name=\"username\" #_id=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration.username\">\n                        </div>\n                          <div class=\"form-group\">\n                              <label>Password</label>\n                              <input class=\"au-input au-input--full\" type=\"password\" name=\"password\" placeholder=\"Password\" name=\"password\" #_id=\"ngModel\" [(ngModel)]=\"registrationService.selectedRegistration.password\">\n                          </div>\n                           <div class=\"login-checkbox\">\n                              <label>\n                                  <input type=\"checkbox\" name=\"remember\">Remember Me\n                              </label>\n                              <label>\n                                  <a href=\"#\">Forgotten Password?</a>\n                              </label>\n                          </div>\n                          <button class=\"au-btn au-btn--block au-btn--green m-b-20\" type=\"submit\" [disabled]=\"!registrationForm.valid\">Submit</button><br>\n                          <button class=\"btn btn--block au-btn--green m-b-20\" type=\"button\"  (click)=\"resetForm(registrationForm)\">Reset\"</button><br>\n                          \n                           <div class=\"social-login-content\">\n                              <div class=\"social-button\">\n                                  <button class=\"au-btn au-btn--block au-btn--blue m-b-20\">sign in with facebook</button>\n                                  <button class=\"au-btn au-btn--block au-btn--blue2\">sign in with twitter</button>\n                              </div>\n                          </div>\n                      </form>\n                      <div class=\"register-link\">\n                          <p>\n                              Don't you have account?\n                              <a href=\"#\">Sign Up Here</a>\n                          </p>\n                      </div>\n                  </div>\n              </div>\n          </div>\n      </div>\n  </div>\n\n</div>\n"
+
+/***/ }),
+
+/***/ "./src/app/loginpage/loginpage.component.ts":
+/*!**************************************************!*\
+  !*** ./src/app/loginpage/loginpage.component.ts ***!
+  \**************************************************/
+/*! exports provided: LoginpageComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LoginpageComponent", function() { return LoginpageComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var _shared_registration_service__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../shared/registration.service */ "./src/app/shared/registration.service.ts");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var LoginpageComponent = /** @class */ (function () {
+    function LoginpageComponent(registrationService) {
+        this.registrationService = registrationService;
+    }
+    LoginpageComponent.prototype.ngOnInit = function () {
+        // this.resetForm();
+    };
+    LoginpageComponent.prototype.resetForm = function (form) {
+        if (form)
+            form.reset();
+        this.registrationService.selectedRegistration = {
+            _id: "",
+            name: "",
+            surname: "",
+            username: "",
+            password: ""
+        };
+    };
+    LoginpageComponent.prototype.onSubmit = function (form) {
+        var _this = this;
+        this.registrationService.postRegistration(form.value).subscribe(function (res) {
+            _this.resetForm(form);
+        });
+    };
+    LoginpageComponent = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
+            selector: 'app-loginpage',
+            template: __webpack_require__(/*! ./loginpage.component.html */ "./src/app/loginpage/loginpage.component.html"),
+            styles: [__webpack_require__(/*! ./loginpage.component.css */ "./src/app/loginpage/loginpage.component.css")],
+            providers: [_shared_registration_service__WEBPACK_IMPORTED_MODULE_1__["RegistrationService"]]
+        }),
+        __metadata("design:paramtypes", [_shared_registration_service__WEBPACK_IMPORTED_MODULE_1__["RegistrationService"]])
+    ], LoginpageComponent);
+    return LoginpageComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/newproductsdetails/newproductsdetails.component.css":
+/*!*********************************************************************!*\
+  !*** ./src/app/newproductsdetails/newproductsdetails.component.css ***!
+  \*********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = ""
+
+/***/ }),
+
+/***/ "./src/app/newproductsdetails/newproductsdetails.component.html":
+/*!**********************************************************************!*\
+  !*** ./src/app/newproductsdetails/newproductsdetails.component.html ***!
+  \**********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "\n<!-- <body class=\"animsition\"> -->\n  \t<div class=\"page-wrapper\">\n\t\t<!-- HEADER MOBILE-->\n\t\t<header class=\"header-mobile d-block d-lg-none\">\n\t\t\t<div class=\"header-mobile__bar\">\n\t\t\t\t<div class=\"container-fluid\">\n\t\t\t\t\t<div class=\"header-mobile-inner\">\n\t\t\t\t\t\t<a class=\"logo\" href=\"index.html\">\n\t\t\t\t\t\t\t<img src=\"images/icon/logo.png\" alt=\"CoolAdmin\" />\n\t\t\t\t\t\t</a>\n\t\t\t\t\t\t<button class=\"hamburger hamburger--slider\" type=\"button\">\n\t\t\t\t\t\t\t<span class=\"hamburger-box\">\n\t\t\t\t\t\t\t\t<span class=\"hamburger-inner\"></span>\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</button>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<nav class=\"navbar-mobile\">\n\t\t\t\t<div class=\"container-fluid\">\n\t\t\t\t\t<ul class=\"navbar-mobile__list list-unstyled\">\n\t\t\t\t\t\t<li class=\"has-sub\">\n\t\t\t\t\t\t\t<a class=\"js-arrow\" href=\"#\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-tachometer-alt\"></i>Dashboard</a>\n\t\t\t\t\t\t\t<ul class=\"navbar-mobile-sub__list list-unstyled js-sub-list\">\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"index.html\">Dashboard 1</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"index2.html\">Dashboard 2</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"index3.html\">Dashboard 3</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"index4.html\">Dashboard 4</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"chart.html\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-chart-bar\"></i>Charts</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"table.html\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-table\"></i>Tables</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"form.html\">\n\t\t\t\t\t\t\t\t<i class=\"far fa-check-square\"></i>Forms</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-calendar-alt\"></i>Calendar</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"map.html\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-map-marker-alt\"></i>Maps</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"has-sub\">\n\t\t\t\t\t\t\t<a class=\"js-arrow\" href=\"#\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-copy\"></i>Pages</a>\n\t\t\t\t\t\t\t<ul class=\"navbar-mobile-sub__list list-unstyled js-sub-list\">\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"login.html\">Login</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"register.html\">Register</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"forget-pass.html\">Forget Password</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"has-sub\">\n\t\t\t\t\t\t\t<a class=\"js-arrow\" href=\"#\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-desktop\"></i>UI Elements</a>\n\t\t\t\t\t\t\t<ul class=\"navbar-mobile-sub__list list-unstyled js-sub-list\">\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"button.html\">Button</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"badge.html\">Badges</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"tab.html\">Tabs</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"card.html\">Cards</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"alert.html\">Alerts</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"progress-bar.html\">Progress Bars</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"modal.html\">Modals</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"switch.html\">Switchs</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"grid.html\">Grids</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"fontawesome.html\">Fontawesome Icon</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"typo.html\">Typography</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t</nav>\n\t\t</header>\n\t\t<!-- END HEADER MOBILE-->\n\n\t\t<!-- MENU SIDEBAR-->\n\t\t<aside class=\"menu-sidebar d-none d-lg-block\">\n\t\t\t<div class=\"logo\">\n\t\t\t\t<a href=\"#\">\n\t\t\t\t\t<img src=\"images/icon/logo.png\" alt=\"Cool Admin\" />\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t<div class=\"menu-sidebar__content js-scrollbar1\">\n\t\t\t\t<nav class=\"navbar-sidebar\">\n\t\t\t\t\t<ul class=\"list-unstyled navbar__list\">\n\t\t\t\t\t\t<li class=\"has-sub\">\n\t\t\t\t\t\t\t<a class=\"js-arrow\" href=\"#\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-tachometer-alt\"></i>Dashboard</a>\n\t\t\t\t\t\t\t<ul class=\"list-unstyled navbar__sub-list js-sub-list\">\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"index.html\">Dashboard 1</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"index2.html\">Dashboard 2</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"index3.html\">Dashboard 3</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"index4.html\">Dashboard 4</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"chart.html\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-chart-bar\"></i>Charts</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"table.html\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-table\"></i>Tables</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"form.html\">\n\t\t\t\t\t\t\t\t<i class=\"far fa-check-square\"></i>Forms</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"#\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-calendar-alt\"></i>Calendar</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"map.html\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-map-marker-alt\"></i>Maps</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"has-sub\">\n\t\t\t\t\t\t\t<a class=\"js-arrow\" href=\"#\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-copy\"></i>Pages</a>\n\t\t\t\t\t\t\t<ul class=\"list-unstyled navbar__sub-list js-sub-list\">\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"login.html\">Login</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"register.html\">Register</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"forget-pass.html\">Forget Password</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"active has-sub\">\n\t\t\t\t\t\t\t<a class=\"js-arrow\" href=\"#\">\n\t\t\t\t\t\t\t\t<i class=\"fas fa-desktop\"></i>UI Elements</a>\n\t\t\t\t\t\t\t<ul class=\"list-unstyled navbar__sub-list js-sub-list\">\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"button.html\">Button</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"badge.html\">Badges</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"tab.html\">Tabs</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"card.html\">Cards</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"alert.html\">Alerts</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"progress-bar.html\">Progress Bars</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"modal.html\">Modals</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"switch.html\">Switchs</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"grid.html\">Grids</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"fontawesome.html\">Fontawesome Icon</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<a href=\"typo.html\">Typography</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</nav>\n\t\t\t</div>\n\t\t</aside>\n\t\t<!-- END MENU SIDEBAR-->\n\n\t\t<!-- PAGE CONTAINER-->\n\t\t<div class=\"page-container\">\n\t\t\t<!-- HEADER DESKTOP-->\n\t\t\t<header class=\"header-desktop\">\n\t\t\t\t<div class=\"section__content section__content--p30\">\n\t\t\t\t\t<div class=\"container-fluid\">\n\t\t\t\t\t\t<div class=\"header-wrap\">\n\t\t\t\t\t\t\t<form class=\"form-header\" action=\"\" method=\"POST\">\n\t\t\t\t\t\t\t\t<input class=\"au-input au-input--xl\" type=\"text\" name=\"search\" placeholder=\"Search for datas &amp; reports...\" />\n\t\t\t\t\t\t\t\t<button class=\"au-btn--submit\" type=\"submit\">\n\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-search\"></i>\n\t\t\t\t\t\t\t\t</button>\n\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t<div class=\"header-button\">\n\t\t\t\t\t\t\t\t<div class=\"noti-wrap\">\n\t\t\t\t\t\t\t\t\t<div class=\"noti__item js-item-menu\">\n\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-comment-more\"></i>\n\t\t\t\t\t\t\t\t\t\t<span class=\"quantity\">1</span>\n\t\t\t\t\t\t\t\t\t\t<div class=\"mess-dropdown js-dropdown\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"mess__title\">\n\t\t\t\t\t\t\t\t\t\t\t\t<p>You have 2 news message</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"mess__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image img-cir img-40\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/icon/avatar-06.jpg\" alt=\"Michelle Moreno\" />\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<h6>Michelle Moreno</h6>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Have sent a photo</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"time\">3 min ago</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"mess__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image img-cir img-40\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/icon/avatar-04.jpg\" alt=\"Diane Myers\" />\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<h6>Diane Myers</h6>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>You are now connected on message</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"time\">Yesterday</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"mess__footer\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">View all messages</a>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"noti__item js-item-menu\">\n\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-email\"></i>\n\t\t\t\t\t\t\t\t\t\t<span class=\"quantity\">1</span>\n\t\t\t\t\t\t\t\t\t\t<div class=\"email-dropdown js-dropdown\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"email__title\">\n\t\t\t\t\t\t\t\t\t\t\t\t<p>You have 3 New Emails</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"email__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image img-cir img-40\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/icon/avatar-06.jpg\" alt=\"Cynthia Harvey\" />\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Meeting about new dashboard...</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span>Cynthia Harvey, 3 min ago</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"email__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image img-cir img-40\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/icon/avatar-05.jpg\" alt=\"Cynthia Harvey\" />\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Meeting about new dashboard...</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span>Cynthia Harvey, Yesterday</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"email__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image img-cir img-40\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/icon/avatar-04.jpg\" alt=\"Cynthia Harvey\" />\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Meeting about new dashboard...</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span>Cynthia Harvey, April 12,,2018</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"email__footer\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">See all emails</a>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"noti__item js-item-menu\">\n\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-notifications\"></i>\n\t\t\t\t\t\t\t\t\t\t<span class=\"quantity\">3</span>\n\t\t\t\t\t\t\t\t\t\t<div class=\"notifi-dropdown js-dropdown\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"notifi__title\">\n\t\t\t\t\t\t\t\t\t\t\t\t<p>You have 3 Notifications</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"notifi__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"bg-c1 img-cir img-40\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-email-open\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>You got a email notification</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"date\">April 12, 2018 06:50</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"notifi__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"bg-c2 img-cir img-40\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-account-box\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Your account has been blocked</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"date\">April 12, 2018 06:50</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"notifi__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"bg-c3 img-cir img-40\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-file-text\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>You got a new file</p>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"date\">April 12, 2018 06:50</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"notifi__footer\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">All notifications</a>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"account-wrap\">\n\t\t\t\t\t\t\t\t\t<div class=\"account-item clearfix js-item-menu\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"image\">\n\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/icon/avatar-01.jpg\" alt=\"John Doe\" />\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t<a class=\"js-acc-btn\" href=\"#\">john doe</a>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"account-dropdown js-dropdown\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"info clearfix\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"image\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img src=\"images/icon/avatar-01.jpg\" alt=\"John Doe\" />\n\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"content\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<h5 class=\"name\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">john doe</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</h5>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"email\">johndoe@example.com</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"account-dropdown__body\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"account-dropdown__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-account\"></i>Account</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"account-dropdown__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-settings\"></i>Setting</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"account-dropdown__item\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-money-box\"></i>Billing</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"account-dropdown__footer\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"zmdi zmdi-power\"></i>Logout</a>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</header>\n\t\t\t<!-- END HEADER DESKTOP-->\n\n\t\t\t<!-- MAIN CONTENT-->\n\t\t\t<div class=\"main-content\">\n\t\t\t\t<div class=\"section__content section__content--p30\">\n\t\t\t\t\t<div class=\"container-fluid\">\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Menus</h4>\n                  </div>\n                  <img class=\"card-img-top image\" src=\"src\\assets\\realauctions\\images\\bg-title-01.jpg\" alt=\"Card image cap\">\n\t\t\t\t\t\t\t\t\t<!-- <div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<p class=\"text-muted m-b-15\">In HTML, a menu is often defined in an unordered list\n\t\t\t\t\t\t\t\t\t\t\t<code>&lt;ul&gt;</code> (and styled afterwards), like this:</p>\n\n\t\t\t\t\t\t\t\t\t\t<ul class=\"list-unstyled\">\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Menu 1</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Menu 2</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Menu 3</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t\t\t\t\t</div> -->\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Product Details</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<h6 class=\"text-muted m-b-15\">PRODUCT NAME: <span class=\"aa\" style=\"font-size: 19px\" >{{viewedProduct?.productname|titlecase}}</span></h6>\n                    <h6 class=\"text-muted m-b-15\">Product CODE:<span class=\"aa\" style=\"font-size: 19px\" > {{viewedProduct?.productcode|titlecase}}</span></h6>\n                    <h6 class=\"text-muted m-b-15\">DETAILS: <span class=\"aa\" style=\"font-size: 19px\" >{{viewedProduct?.description}\n                      l<}</span></h6>\n                    <h6 class=\"text-muted m-b-15\">AUCTION TIME/DATE: <span class=\"aa\" style=\"font-size: 19px\" >Bidding and auctions will begin at {{viewedProduct?.auctiontime}} prompt on {{viewedProduct?.auctiondate}}</span></h6>\n\n\n\t\t\t\t\t\t\t\t\t\t<!-- <ul class=\"list-inline\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Menu 1</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Menu 2</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"list-inline-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\">Menu 3</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul> -->\n\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Tabs With Dropdown Menu</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<p class=\"text-muted m-b-15\">The following example adds a dropdown menu to \"Menu 1\":</p>\n\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-tabs\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link active\" href=\"#\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item dropdown\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Menu 1\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"caret\"></span>\n\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"dropdown-item\" href=\"#\">Submenu 1-1</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"dropdown-item\" href=\"#\">Submenu 1-2</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"dropdown-item\" href=\"#\">Submenu 1-3</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" href=\"#\">Menu 2</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" href=\"#\">Menu 3</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<!-- /# column -->\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Pills</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<p class=\"text-muted m-b-15\">Pills are created with\n\t\t\t\t\t\t\t\t\t\t\t<code>&lt;ul class=\"nav nav-pills\"&gt;</code>. Also mark the current page with\n\t\t\t\t\t\t\t\t\t\t\t<code>&lt;li class=\"active\"&gt;</code>:</p>\n\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-pills mb-3\" id=\"pills-tab\" role=\"tablist\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link active\" id=\"pills-home-tab\" data-toggle=\"pill\" href=\"#pills-home\" role=\"tab\" aria-controls=\"pills-home\"\n\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"true\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"pills-profile-tab\" data-toggle=\"pill\" href=\"#pills-profile\" role=\"tab\" aria-controls=\"pills-profile\"\n\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Profile</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"pills-contact-tab\" data-toggle=\"pill\" href=\"#pills-contact\" role=\"tab\" aria-controls=\"pills-contact\"\n\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Contact</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Vertical Pills</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<p class=\"text-muted m-b-15\">Pills can also be displayed vertically. Just add the\n\t\t\t\t\t\t\t\t\t\t\t<code>.nav-stacked</code> class:</p>\n\n\t\t\t\t\t\t\t\t\t\t<div class=\"nav flex-column nav-pills\" id=\"v-pills-tab\" role=\"tablist\" aria-orientation=\"vertical\">\n\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link active\" id=\"v-pills-home-tab\" data-toggle=\"pill\" href=\"#v-pills-home\" role=\"tab\" aria-controls=\"v-pills-home\"\n\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"true\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"v-pills-profile-tab\" data-toggle=\"pill\" href=\"#v-pills-profile\" role=\"tab\" aria-controls=\"v-pills-profile\"\n\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Menu 1</a>\n\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"v-pills-messages-tab\" data-toggle=\"pill\" href=\"#v-pills-messages\" role=\"tab\" aria-controls=\"v-pills-messages\"\n\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Menu 2</a>\n\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"v-pills-settings-tab\" data-toggle=\"pill\" href=\"#v-pills-settings\" role=\"tab\" aria-controls=\"v-pills-settings\"\n\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Menu 3</a>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<!-- /# column -->\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Pills With Dropdown Menu</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<p class=\"text-muted m-b-15\">The following example adds a dropdown menu to \"Menu 1\":</p>\n\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-pills\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link active\" href=\"#\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item dropdown\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Menu 1</a>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"dropdown-menu\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"dropdown-item\" href=\"#\">Submenu 1-1</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"dropdown-item\" href=\"#\">Submenu 1-2</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"dropdown-item\" href=\"#\">Submenu 1-3</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"dropdown-item\" href=\"#\">Something else here</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"dropdown-divider\"></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"dropdown-item\" href=\"#\">Separated link</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" href=\"#\">Menu 2</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" href=\"#\">Menu 3</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Centered Tabs and Pills</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<p class=\"text-muted m-b-15\">To center/justify the tabs and pills, use the\n\t\t\t\t\t\t\t\t\t\t\t<code>.nav-justified</code> class.</p>\n\n\t\t\t\t\t\t\t\t\t\t<!-- Centered Tabs -->\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-tabs nav-justified\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link active\" href=\"#\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" href=\"#\">Menu 1</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" href=\"#\">Menu 2</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" href=\"#\">Menu 3</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-pills nav-justified mb-3 mt-2\" id=\"pills-tab\" role=\"tablist\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link active\" id=\"pills-home-tab\" data-toggle=\"pill\" href=\"#pills-home\" role=\"tab\" aria-controls=\"pills-home\"\n\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"true\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"pills-profile-tab\" data-toggle=\"pill\" href=\"#pills-profile\" role=\"tab\" aria-controls=\"pills-profile\"\n\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Menu 1</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"pills-profile-tab\" data-toggle=\"pill\" href=\"#pills-profile\" role=\"tab\" aria-controls=\"pills-profile\"\n\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Menu 2</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"pills-contact-tab\" data-toggle=\"pill\" href=\"#pills-contact\" role=\"tab\" aria-controls=\"pills-contact\"\n\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Menu 3</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\n\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<!-- /# column -->\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Toggleable / Dynamic Tabs</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<p class=\"text-muted m-b-15\">To make the tabs toggleable, add the\n\t\t\t\t\t\t\t\t\t\t\t<code>data-toggle=\"tab\"</code> attribute to each link. Then add a\n\t\t\t\t\t\t\t\t\t\t\t<code>.tab-pane</code> class with a unique ID for every tab and wrap them inside a\n\t\t\t\t\t\t\t\t\t\t\t<code>&lt;div&gt;</code> element with class\n\t\t\t\t\t\t\t\t\t\t\t<code>.tab-content</code>. If you want the tabs to fade in and out when clicking on them, add the\n\t\t\t\t\t\t\t\t\t\t\t<code>.fade</code> class to\n\t\t\t\t\t\t\t\t\t\t\t<code>.tab-pane</code>:</p>\n\n\t\t\t\t\t\t\t\t\t\t<ul class=\"nav nav-tabs\" id=\"myTab\" role=\"tablist\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link active\" id=\"home-tab\" data-toggle=\"tab\" href=\"#home\" role=\"tab\" aria-controls=\"home\" aria-selected=\"true\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"profile-tab\" data-toggle=\"tab\" href=\"#profile\" role=\"tab\" aria-controls=\"profile\" aria-selected=\"false\">Menu 1</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"nav-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-link\" id=\"contact-tab\" data-toggle=\"tab\" href=\"#contact\" role=\"tab\" aria-controls=\"contact\" aria-selected=\"false\">Menu 2</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t<div class=\"tab-content pl-3 p-1\" id=\"myTabContent\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-pane fade show active\" id=\"home\" role=\"tabpanel\" aria-labelledby=\"home-tab\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h3>Home</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t<p>Some content here.</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-pane fade\" id=\"profile\" role=\"tabpanel\" aria-labelledby=\"profile-tab\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h3>Menu 1</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t<p>Some content here.</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-pane fade\" id=\"contact\" role=\"tabpanel\" aria-labelledby=\"contact-tab\">\n\t\t\t\t\t\t\t\t\t\t\t\t<h3>Menu 2</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t<p>Some content here.</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\n\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Default Tab</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"default-tab\">\n\t\t\t\t\t\t\t\t\t\t\t<nav>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"nav nav-tabs\" id=\"nav-tab\" role=\"tablist\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-item nav-link active\" id=\"nav-home-tab\" data-toggle=\"tab\" href=\"#nav-home\" role=\"tab\" aria-controls=\"nav-home\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"true\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-item nav-link\" id=\"nav-profile-tab\" data-toggle=\"tab\" href=\"#nav-profile\" role=\"tab\" aria-controls=\"nav-profile\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Profile</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-item nav-link\" id=\"nav-contact-tab\" data-toggle=\"tab\" href=\"#nav-contact\" role=\"tab\" aria-controls=\"nav-contact\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Contact</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</nav>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-content pl-3 pt-2\" id=\"nav-tabContent\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-pane fade show active\" id=\"nav-home\" role=\"tabpanel\" aria-labelledby=\"nav-home-tab\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmaster cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdreamcatcher synth. Cosby sweater eu banh mi, irure terry richardson ex sd. Alip placeat salvia cillum iphone.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeitan alip s cardigan american apparel, butcher voluptate nisi .</p>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-pane fade\" id=\"nav-profile\" role=\"tabpanel\" aria-labelledby=\"nav-profile-tab\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmaster cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdreamcatcher synth. Cosby sweater eu banh mi, irure terry richardson ex sd. Alip placeat salvia cillum iphone.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeitan alip s cardigan american apparel, butcher voluptate nisi .</p>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-pane fade\" id=\"nav-contact\" role=\"tabpanel\" aria-labelledby=\"nav-contact-tab\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmaster cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdreamcatcher synth. Cosby sweater eu banh mi, irure terry richardson ex sd. Alip placeat salvia cillum iphone.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeitan alip s cardigan american apparel, butcher voluptate nisi .</p>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<!-- /# column -->\n\t\t\t\t\t\t\t<div class=\"col-lg-6\">\n\t\t\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\t\t\t<div class=\"card-header\">\n\t\t\t\t\t\t\t\t\t\t<h4>Custom Tab</h4>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"custom-tab\">\n\n\t\t\t\t\t\t\t\t\t\t\t<nav>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"nav nav-tabs\" id=\"nav-tab\" role=\"tablist\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-item nav-link active\" id=\"custom-nav-home-tab\" data-toggle=\"tab\" href=\"#custom-nav-home\" role=\"tab\" aria-controls=\"custom-nav-home\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"true\">Home</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-item nav-link\" id=\"custom-nav-profile-tab\" data-toggle=\"tab\" href=\"#custom-nav-profile\" role=\"tab\" aria-controls=\"custom-nav-profile\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Profile</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a class=\"nav-item nav-link\" id=\"custom-nav-contact-tab\" data-toggle=\"tab\" href=\"#custom-nav-contact\" role=\"tab\" aria-controls=\"custom-nav-contact\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t aria-selected=\"false\">Contact</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</nav>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-content pl-3 pt-2\" id=\"nav-tabContent\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-pane fade show active\" id=\"custom-nav-home\" role=\"tabpanel\" aria-labelledby=\"custom-nav-home-tab\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmaster cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdreamcatcher synth. Cosby sweater eu banh mi, irure terry richardson ex sd. Alip placeat salvia cillum iphone.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeitan alip s cardigan american apparel, butcher voluptate nisi .</p>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-pane fade\" id=\"custom-nav-profile\" role=\"tabpanel\" aria-labelledby=\"custom-nav-profile-tab\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmaster cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdreamcatcher synth. Cosby sweater eu banh mi, irure terry richardson ex sd. Alip placeat salvia cillum iphone.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeitan alip s cardigan american apparel, butcher voluptate nisi .</p>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"tab-pane fade\" id=\"custom-nav-contact\" role=\"tabpanel\" aria-labelledby=\"custom-nav-contact-tab\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tmaster cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdreamcatcher synth. Cosby sweater eu banh mi, irure terry richardson ex sd. Alip placeat salvia cillum iphone.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tSeitan alip s cardigan american apparel, butcher voluptate nisi .</p>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<!-- /# column -->\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<!-- END PAGE CONTAINER-->\n\n    </div>\n    </div>\n\n\n    <!-- Jquery JS-->\n\t\t<!-- <script src=\"vendor/jquery-3.2.1.min.js\"></script> -->\n\t\t<!-- Bootstrap JS-->\n\t\t<!-- <script src=\"vendor/bootstrap-4.1/popper.min.js\"></script> -->\n\t\t<!-- <script src=\"vendor/bootstrap-4.1/bootstrap.min.js\"></script> -->\n\t\t<!-- Vendor JS       -->\n\t\t<!-- <script src=\"vendor/slick/slick.min.js\"> -->\n\t\t<!-- </script> -->\n\t\t<!-- <script src=\"vendor/wow/wow.min.js\"></script> -->\n\t\t<!-- <script src=\"vendor/animsition/animsition.min.js\"></script> -->\n\t\t<!-- <script src=\"vendor/bootstrap-progressbar/bootstrap-progressbar.min.js\"> -->\n\t\t<!-- </script> -->\n\t\t<!-- <script src=\"vendor/counter-up/jquery.waypoints.min.js\"></script> -->\n\t\t<!-- <script src=\"vendor/counter-up/jquery.counterup.min.js\"> -->\n\t\t<!-- </script> -->\n\t\t<!-- <script src=\"vendor/circle-progress/circle-progress.min.js\"></script> -->\n\t\t<!-- <script src=\"vendor/perfect-scrollbar/perfect-scrollbar.js\"></script> -->\n\t\t<!-- <script src=\"vendor/chartjs/Chart.bundle.min.js\"></script> -->\n\t\t<!-- <script src=\"vendor/select2/select2.min.js\"> -->\n\t\t<!-- </script> -->\n\n\t\t<!-- Main JS-->\n\t\t<!-- <script src=\"js/main.js\"></script> -->\n\n<!-- </body> -->\n"
+
+/***/ }),
+
+/***/ "./src/app/newproductsdetails/newproductsdetails.component.ts":
+/*!********************************************************************!*\
+  !*** ./src/app/newproductsdetails/newproductsdetails.component.ts ***!
+  \********************************************************************/
+/*! exports provided: NewproductsdetailsComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NewproductsdetailsComponent", function() { return NewproductsdetailsComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm5/router.js");
+/* harmony import */ var _shared_adminproduct_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../shared/adminproduct.service */ "./src/app/shared/adminproduct.service.ts");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+var NewproductsdetailsComponent = /** @class */ (function () {
+    function NewproductsdetailsComponent(activeRoute, adminService) {
+        var _this = this;
+        this.activeRoute = activeRoute;
+        this.adminService = adminService;
+        this.viewedProduct = null;
+        activeRoute.params.subscribe(function (param) {
+            _this.productId = param.id;
+            _this.getProductById();
+            console.log('Params ', param);
+        });
+    }
+    NewproductsdetailsComponent.prototype.ngOnInit = function () {
+    };
+    NewproductsdetailsComponent.prototype.getProductById = function () {
+        var _this = this;
+        this.adminService.getAdminProductById(this.productId).subscribe(function (response) {
+            console.log('respone gfhgfhfghhg ', response);
+            _this.viewedProduct = response;
+        }, function (error) {
+            console.log('Error ', error);
+        });
+    };
+    NewproductsdetailsComponent = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
+            selector: 'app-newproductsdetails',
+            template: __webpack_require__(/*! ./newproductsdetails.component.html */ "./src/app/newproductsdetails/newproductsdetails.component.html"),
+            styles: [__webpack_require__(/*! ./newproductsdetails.component.css */ "./src/app/newproductsdetails/newproductsdetails.component.css")]
+        }),
+        __metadata("design:paramtypes", [_angular_router__WEBPACK_IMPORTED_MODULE_1__["ActivatedRoute"], _shared_adminproduct_service__WEBPACK_IMPORTED_MODULE_2__["AdminproductService"]])
+    ], NewproductsdetailsComponent);
+    return NewproductsdetailsComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/registerpage/registerpage.component.css":
+/*!*********************************************************!*\
+  !*** ./src/app/registerpage/registerpage.component.css ***!
+  \*********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = ""
+
+/***/ }),
+
+/***/ "./src/app/registerpage/registerpage.component.html":
+/*!**********************************************************!*\
+  !*** ./src/app/registerpage/registerpage.component.html ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "<!-- <p>\n  registerpage works!\n</p> -->\n<div>\n<br><br><br>\n<div class=\"page-wrapper\">\n    <div class=\"page-content--bge5\">\n        <div class=\"container\">\n            <div class=\"login-wrap\">\n                <div class=\"login-content\">\n                    <div class=\"login-logo\">\n                        <a href=\"#\">\n                            <img src=\"images/icon/logo.png\" alt=\"CoolAdmin\">\n                        </a>\n                    </div>\n                    <div class=\"login-form\">\n                        <form action=\"\" method=\"post\">\n                            <div class=\"form-group\">\n                                <label>Email Address</label>\n                                <input class=\"au-input au-input--full\" type=\"email\" name=\"email\" placeholder=\"Email\">\n                            </div>\n                            <div class=\"form-group\">\n                                <label>Password</label>\n                                <input class=\"au-input au-input--full\" type=\"password\" name=\"password\" placeholder=\"Password\">\n                            </div>\n                            <div class=\"login-checkbox\">\n                                <label>\n                                    <input type=\"checkbox\" name=\"remember\">Remember Me\n                                </label>\n                                <label>\n                                    <a href=\"#\">Forgotten Password?</a>\n                                </label>\n                            </div>\n                            <button class=\"au-btn au-btn--block au-btn--green m-b-20\" type=\"submit\">sign in</button>\n                            <div class=\"social-login-content\">\n                                <div class=\"social-button\">\n                                    <button class=\"au-btn au-btn--block au-btn--blue m-b-20\">sign in with facebook</button>\n                                    <button class=\"au-btn au-btn--block au-btn--blue2\">sign in with twitter</button>\n                                </div>\n                            </div>\n                        </form>\n                        <div class=\"register-link\">\n                            <p>\n                                Don't you have account?\n                                <a href=\"#\">Sign Up Here</a>\n                            </p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</div>\n</div>\n"
+
+/***/ }),
+
+/***/ "./src/app/registerpage/registerpage.component.ts":
+/*!********************************************************!*\
+  !*** ./src/app/registerpage/registerpage.component.ts ***!
+  \********************************************************/
+/*! exports provided: RegisterpageComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "RegisterpageComponent", function() { return RegisterpageComponent; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+var RegisterpageComponent = /** @class */ (function () {
+    function RegisterpageComponent() {
+    }
+    RegisterpageComponent.prototype.ngOnInit = function () {
+    };
+    RegisterpageComponent = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
+            selector: 'app-registerpage',
+            template: __webpack_require__(/*! ./registerpage.component.html */ "./src/app/registerpage/registerpage.component.html"),
+            styles: [__webpack_require__(/*! ./registerpage.component.css */ "./src/app/registerpage/registerpage.component.css")]
+        }),
+        __metadata("design:paramtypes", [])
+    ], RegisterpageComponent);
+    return RegisterpageComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/shared/adminproduct.service.ts":
+/*!************************************************!*\
+  !*** ./src/app/shared/adminproduct.service.ts ***!
+  \************************************************/
+/*! exports provided: AdminproductService */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AdminproductService", function() { return AdminproductService; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var AdminproductService = /** @class */ (function () {
+    function AdminproductService(http) {
+        this.http = http;
+        this.baseURL = 'http://localhost:3000/adminproducts';
+    }
+    AdminproductService.prototype.postAdminproduct = function (admprd) {
+        return this.http.post(this.baseURL, admprd);
+    };
+    AdminproductService.prototype.getAdminProduct = function () {
+        return this.http.get(this.baseURL);
+    };
+    AdminproductService.prototype.putAdminProduct = function (data, id) {
+        return this.http.put(this.baseURL + '/' + id, data);
+    };
+    AdminproductService.prototype.getAdminProductById = function (id) {
+        return this.http.get(this.baseURL + '/' + id);
+    };
+    AdminproductService.prototype.toggleAdminProduct = function (product) {
+        return this.http.put(this.baseURL + '/toggle/' + product._id, product);
+    };
+    AdminproductService = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])({
+            providedIn: 'root'
+        }),
+        __metadata("design:paramtypes", [_angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpClient"]])
+    ], AdminproductService);
+    return AdminproductService;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/shared/registration.service.ts":
+/*!************************************************!*\
+  !*** ./src/app/shared/registration.service.ts ***!
+  \************************************************/
+/*! exports provided: RegistrationService */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "RegistrationService", function() { return RegistrationService; });
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
+var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (undefined && undefined.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var RegistrationService = /** @class */ (function () {
+    function RegistrationService(http) {
+        this.http = http;
+        this.baseURL = 'http://localhost:3000/registrations';
+    }
+    RegistrationService.prototype.postRegistration = function (reg) {
+        return this.http.post(this.baseURL, reg);
+    };
+    RegistrationService = __decorate([
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])({
+            providedIn: 'root'
+        }),
+        __metadata("design:paramtypes", [_angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpClient"]])
+    ], RegistrationService);
+    return RegistrationService;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/environments/environment.ts":
+/*!*****************************************!*\
+  !*** ./src/environments/environment.ts ***!
+  \*****************************************/
+/*! exports provided: environment */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "environment", function() { return environment; });
+// This file can be replaced during build by using the `fileReplacements` array.
+// `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
+// The list of file replacements can be found in `angular.json`.
+var environment = {
+    production: false
+};
+/*
+ * For easier debugging in development mode, you can import the following file
+ * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
+ *
+ * This import should be commented out in production mode because it will have a negative impact
+ * on performance if an error is thrown.
+ */
+// import 'zone.js/dist/zone-error';  // Included with Angular CLI.
+
+
+/***/ }),
+
+/***/ "./src/main.ts":
+/*!*********************!*\
+  !*** ./src/main.ts ***!
+  \*********************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
+/* harmony import */ var _angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/platform-browser-dynamic */ "./node_modules/@angular/platform-browser-dynamic/fesm5/platform-browser-dynamic.js");
+/* harmony import */ var _app_app_module__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./app/app.module */ "./src/app/app.module.ts");
+/* harmony import */ var _environments_environment__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./environments/environment */ "./src/environments/environment.ts");
+
+
+
+
+if (_environments_environment__WEBPACK_IMPORTED_MODULE_3__["environment"].production) {
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["enableProdMode"])();
+}
+Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformBrowserDynamic"])().bootstrapModule(_app_app_module__WEBPACK_IMPORTED_MODULE_2__["AppModule"])
+    .catch(function (err) { return console.log(err); });
+
+
+/***/ }),
+
+/***/ 0:
+/*!************************************************************************!*\
+  !*** multi (webpack)-dev-server/client?http://0.0.0.0:0 ./src/main.ts ***!
+  \************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__(/*! C:\Users\DELL\Desktop\UpperlinkWEBCHOICE\projects\Auctions Project\auctions\node_modules\webpack-dev-server\client\index.js?http://0.0.0.0:0 */"./node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:0");
+module.exports = __webpack_require__(/*! C:\Users\DELL\Desktop\UpperlinkWEBCHOICE\projects\Auctions Project\auctions\src\main.ts */"./src/main.ts");
+
+
+/***/ })
+
+},[[0,"runtime","vendor"]]]);
+//# sourceMappingURL=main.js.map                                                                                                                                                                                                                                                                                                                                 K Q J z . h t m l               ’   E   h t t p : / / t p c . g o o g l e s y n d i c a t i o n . c o m / s a f e f r a m e / 1 - 0 - 3 0 / h t m l / c o n t a i n e r . h t m l                     n   3   < ! - - d y n a m i c F r a m e 1 5 5 8 4 3 D 7 2 1 0 1 0 A 3 2 B 5 8 B 1 7 A 8 2 4 A D F 3 6 D - - >          8      0       8                                                                                                            `       X       ø       p              à             Ø   <?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3142d704-ea3f-41ec-bdf6-4c49769444d8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/auctions/src/assets/.gitkeep" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctions/angular.json" afterPath="$PROJECT_DIR$/auctions/angular.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctions/package-lock.json" afterPath="$PROJECT_DIR$/auctions/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctions/package.json" afterPath="$PROJECT_DIR$/auctions/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctions/src/app/app.component.css" afterPath="$PROJECT_DIR$/auctions/src/app/app.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctions/src/app/app.component.html" afterPath="$PROJECT_DIR$/auctions/src/app/app.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctions/src/app/app.module.ts" afterPath="$PROJECT_DIR$/auctions/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctions/src/index.html" afterPath="$PROJECT_DIR$/auctions/src/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auctions/src/styles.css" afterPath="$PROJECT_DIR$/auctions/src/styles.css" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Auctions Project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="adminproductstable.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auctions/src/app/adminproductstable/adminproductstable.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="155" column="9" lean-forward="false" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="9" />
+              <folding>
+                <element signature="n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#!!top" expanded="false" />
+                <element signature="n#button#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="companypage.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auctions/src/app/companypage/companypage.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="48" column="32" lean-forward="false" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auctions/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/auctions/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newproductsdetails.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auctions/src/app/newproductsdetails/newproductsdetails.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="34" column="26" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminproductstable.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auctions/src/app/adminproductstable/adminproductstable.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1972">
+              <caret line="120" column="33" lean-forward="false" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminproductController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NodeJs/controllers/adminproductController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1309">
+              <caret line="77" column="14" lean-forward="false" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adminproduct.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auctions/src/app/shared/adminproduct.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="38" column="72" lean-forward="false" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>href</find>
+      <find>CompanypageComponent</find>
+      <find>product</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/auctions" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/auctions/src/app/shared/registration.service.ts" />
+        <option value="$PROJECT_DIR$/auctions/src/app/companypage/companypage.component.css" />
+        <option value="$PROJECT_DIR$/auctions/src/app/companypage/companypage.component.html" />
+        <option value="$PROJECT_DIR$/auctions/src/app/adminheadingbar/adminheadingbar.component.html" />
+        <option value="$PROJECT_DIR$/auctions/src/index.html" />
+        <option value="$PROJECT_DIR$/auctions/src/app/loginpage/loginpage.component.ts" />
+        <option value="$PROJECT_DIR$/auctions/src/assets/realauctions/js/main.js" />
+        <option value="$PROJECT_DIR$/auctions/src/app/adminsidebar/adminsidebar.component.html" />
+        <option value="$PROJECT_DIR$/auctions/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/NodeJs/models/adminuser.js" />
+        <option value="$PROJECT_DIR$/NodeJs/index.js" />
+        <option value="$PROJECT_DIR$/auctions/src/app/shared/adminproduct.model.ts" />
+        <option value="$PROJECT_DIR$/auctions/src/assets/realauctions/vendor/select2/select2.min.js" />
+        <option value="$PROJECT_DIR$/auctions/src/app/adminproductstable/adminproductstable.component.css" />
+        <option value="$PROJECT_DIR$/auctions/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/auctions/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/auctions/src/app/newproductsdetails/newproductsdetails.component.ts" />
+        <option value="$PROJECT_DIR$/auctions/src/app/newproductsdetails/newproductsdetails.component.html" />
+        <option value="$PROJECT_DIR$/NodeJs/models/adminproduct.js" />
+        <option value="$PROJECT_DIR$/NodeJs/controllers/adminproductController.js" />
+        <option value="$PROJECT_DIR$/auctions/src/app/adminproductstable/adminproductstable.component.ts" />
+        <option value="$PROJECT_DIR$/auctions/src/app/shared/adminproduct.service.ts" />
+        <option value="$PROJECT_DIR$/auctions/src/app/adminproductstable/adminproductstable.component.html" />
+        <option value="$PROJECT_DIR$/auctions/src/app/app.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/NodeJs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/auctions/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="615" />
+    <option name="y" value="11" />
+    <option name="width" value="531" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Auctions Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auctions Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auctions Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auctions Project" type="462c0819:PsiDirectoryNode" />
+              <item name="auctions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auctions Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auctions Project" type="462c0819:PsiDirectoryNode" />
+              <item name="auctions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auctions Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auctions Project" type="462c0819:PsiDirectoryNode" />
+              <item name="auctions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auctions Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auctions Project" type="462c0819:PsiDirectoryNode" />
+              <item name="auctions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="companypage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auctions Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auctions Project" type="462c0819:PsiDirectoryNode" />
+              <item name="auctions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auctions Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auctions Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NodeJs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auctions Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auctions Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NodeJs" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auctions Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auctions Project" type="462c0819:PsiDirectoryNode" />
+              <item name="NodeJs" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="typescript-compiler-editor-notification" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3142d704-ea3f-41ec-bdf6-4c49769444d8" name="Default" comment="" />
+      <created>1537355041707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537355041707</updated>
+      <workItem from="1537355057287" duration="514000" />
+      <workItem from="1537357948707" duration="2203000" />
+      <workItem from="1539169717567" duration="585000" />
+      <workItem from="1539171780868" duration="1256000" />
+      <workItem from="1539242872018" duration="2123000" />
+      <workItem from="1539246515656" duration="736000" />
+      <workItem from="1539247766376" duration="5567000" />
+      <workItem from="1539255831003" duration="1201000" />
+      <workItem from="1539260800146" duration="19842000" />
+      <workItem from="1539349089704" duration="6781000" />
+      <workItem from="1290508312546" duration="36000" />
+      <workItem from="1539631451992" duration="6260000" />
+      <workItem from="1539700005065" duration="12135000" />
+      <workItem from="1539724884760" duration="2422000" />
+      <workItem from="1539868322551" duration="85000" />
+      <workItem from="1539869728264" duration="3482000" />
+      <workItem from="1539935650832" duration="1289000" />
+      <workItem from="1539938257503" duration="2950000" />
+      <workItem from="1539949275980" duration="8061000" />
+      <workItem from="1539961642102" duration="1591000" />
+      <workItem from="1539999556270" duration="15424000" />
+      <workItem from="1540111642366" duration="581000" />
+      <workItem from="1540113988022" duration="22247000" />
+      <workItem from="1540193098570" duration="594000" />
+      <workItem from="1540196273463" duration="13928000" />
+      <workItem from="1540218462801" duration="2557000" />
+      <workItem from="1290281028408" duration="6459000" />
+      <workItem from="1540292089183" duration="4031000" />
+      <workItem from="1540304779234" duration="5180000" />
+      <workItem from="1290279852644" duration="1200000" />
+      <workItem from="1540366272546" duration="873000" />
+      <workItem from="1540371688519" duration="8211000" />
+      <workItem from="1540383248461" duration="1965000" />
+      <workItem from="1290278945013" duration="4696000" />
+      <workItem from="1540454609181" duration="569000" />
+      <workItem from="1540544196734" duration="1292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="168926000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21502976" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1845238" sideWeight="0.5059423" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18824404" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1845238" sideWeight="0.5059423" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/auctions/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/companypage/companypage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="92" lean-forward="false" selection-start-line="83" selection-start-column="92" selection-end-line="83" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/firstpage/firstpage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/companypage/companypage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7905">
+          <caret line="465" column="0" lean-forward="true" selection-start-line="465" selection-start-column="0" selection-end-line="465" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/firstpage/firstpage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/shared/registration.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/shared/registration.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/homepage/homepage.component.html" />
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/companypage/companypage.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="75" lean-forward="false" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/adminheadingbar/adminheadingbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="243" column="0" lean-forward="false" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/adminsidebar/adminsidebar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="53" column="50" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/assets/realauctions/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="1276" column="10" lean-forward="true" selection-start-line="1276" selection-start-column="10" selection-end-line="1276" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/adminsidebar/adminsidebar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="253" column="23" lean-forward="false" selection-start-line="253" selection-start-column="23" selection-end-line="253" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/adminsidebar/adminsidebar.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/firstpage/firstpage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="138" column="188" lean-forward="false" selection-start-line="138" selection-start-column="188" selection-end-line="138" selection-end-column="188" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" lean-forward="false" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/shared/registration.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/loginpage/loginpage.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/shared/registration.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/src/app/adminuserstable/adminuserstable.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auctions/node_modules/@angular/common/http/src/client.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13413">
+          <caret line="800" column="4" lean-forward="false" selection-start-line="800" selection-start-column="4" selection-end-line="800" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true

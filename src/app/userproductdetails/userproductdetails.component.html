@@ -1,0 +1,646 @@
+<div class="ttt">
+<!--
+Lower Header Section 
+-->
+<div class="container">
+<div id="gototop"> </div>
+<header id="header">
+<div class="row">
+	<div class="span4">
+	<h1>
+	<a class="logo" href="index.html"><span>Twitter Bootstrap ecommerce template</span> 
+		<img src="src\assets\userlanding\img\logo-bootstrap-shoping-cart.png" alt="bootstrap sexy shop">
+	</a>
+	</h1>
+	</div>
+	<div class="span4">
+	<div class="offerNoteWrapper">
+	<h1 class="dotmark">
+	<i class="icon-cut"></i>
+	Twitter Bootstrap shopping cart HTML template is available @ $14
+	</h1>
+	</div>
+	</div>
+	<div class="span4 alignR">
+	<p><br> <strong> Support (24/7) :  0800 1234 678 </strong><br><br></p>
+	<span class="btn btn-mini">[ 2 ] <span class="icon-shopping-cart"></span></span>
+	<span class="btn btn-warning btn-mini">$</span>
+	<span class="btn btn-mini">&pound;</span>
+	<span class="btn btn-mini">&euro;</span>
+	</div>
+</div>
+</header>
+<!--
+Navigation Bar Section 
+-->
+<div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+        <div class="nav-collapse">
+          <!-- <a routerLink="/crisis-center" routerLinkActive="active">Crisis Center</a> -->
+          <ul class="nav">
+            <!--<li class="active"><a href="index.html">Home	</a></li>-->
+            <li class=""><a routerLink="" routerLinkActive="active">Home</a></li>
+            <li class=""><a routerLink="/aboutshopcart" routerLinkActive="active">About Us</a></li>
+            <li class=""><a routerLink="/contactus" routerLinkActive="active">Contact Us</a></li>
+          </ul>
+          <!-- <form action="#" class="navbar-search pull-left">
+            <input type="text" placeholder="Search" class="search-query span2">
+          </form> -->
+          <ul class="nav pull-right men">
+              <li class=""><a routerLink="/contactus" routerLinkActive="active">Upcoming Products</a></li>
+              <li class=""><a routerLink="/contactus" routerLinkActive="active">Current Product On Auction</a></li>
+            <li class="dropdown">
+              <a data-toggle="dropdown" class="dropdown-toggle" href="#"><span class="icon-lock"></span> Login <b class="caret"></b></a>
+              <div class="dropdown-menu">
+                <form class="form-horizontal loginFrm" [formGroup]="userAccessForm" (ngSubmit)="onSubmitUserAccess()">
+                    <div class="form-group">
+                    <input type="text" class="span2" id="inputEmail" formControlName="email" placeholder="Email">
+                  </div>
+                  <div class="control-group">
+                    <input type="password" class="span2" id="inputPassword" formControlName="password" placeholder="Password">
+                  </div>
+                  <div class="control-group">
+                    <!-- <label class="checkbox">
+                      <input type="checkbox"> Remember me
+                    </label> -->
+                    <button type="submit" class="shopBtn btn-block">Sign in</button>
+                  </div>
+                </form>
+              </div>
+            </li>
+            <li class="">
+              <a routerLink="/registerpage" routerLinkActive="active"><span class="icon-lock"></span> Register <b class="caret"></b></a>
+            </li>
+            <li class=""><a routerLink="/contactus" routerLinkActive="active">Logout</a></li>
+           
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- 
+Body Section 
+-->
+	<div class="row">
+		<div class="col-lg-3">
+<div id="sidebar" class="span3">
+<div class="well well-small">
+	<ul class="nav nav-list">
+		<li><a href="products.html"><span class="icon-chevron-right"></span>Fashion</a></li>
+		<li><a href="products.html"><span class="icon-chevron-right"></span>Watches</a></li>
+		<li><a href="products.html"><span class="icon-chevron-right"></span>Fine Jewelry</a></li>
+		<li><a href="products.html"><span class="icon-chevron-right"></span>Fashion Jewelry</a></li>
+		<li><a href="products.html"><span class="icon-chevron-right"></span>Engagement & Wedding</a></li>
+		<li><a href="products.html"><span class="icon-chevron-right"></span>Men's Jewelry</a></li>
+		<li><a href="products.html"><span class="icon-chevron-right"></span>Vintage & Antique</a></li>
+		<li><a href="products.html"><span class="icon-chevron-right"></span>Loose Diamonds </a></li>
+		<li><a href="products.html"><span class="icon-chevron-right"></span>Loose Beads</a></li>
+		<li><a href="products.html"><span class="icon-chevron-right"></span>See All Jewelry & Watches</a></li>
+		<li style="border:0"> &nbsp;</li>
+		<li> <a class="totalInCart" href="cart.html"><strong>Total Amount  <span class="badge badge-warning pull-right" style="line-height:18px;">$448.42</span></strong></a></li>
+	</ul>
+</div>
+
+			  <div class="well well-small alert alert-warning cntr">
+				  <h2>50% Discount</h2>
+				  <p> 
+					 only valid for online order. <br><br><a class="defaultBtn" href="#">Click here </a>
+				  </p>
+			  </div>
+			  <div class="well well-small" ><a href="#"><img src="src/assets/userlanding/img/paypal.jpg" alt="payment method paypal"></a></div>
+			
+			<a class="shopBtn btn-block" href="#">Upcoming products <br><small>Click to view</small></a>
+			<br>
+			<br>
+			<ul class="nav nav-list promowrapper">
+			<li>
+			  <div class="thumbnail">
+				<a class="zoomTool" href="product_details.html" title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+				<img src="src/assets/userlanding/img//bootstrap-ecommerce-templates.png" alt="bootstrap ecommerce templates">
+				<div class="caption">
+				  <h4><a class="defaultBtn" href="product_details.html">VIEW</a> <span class="pull-right">$22.00</span></h4>
+				</div>
+			  </div>
+			</li>
+			<li style="border:0"> &nbsp;</li>
+			<li>
+			  <div class="thumbnail">
+				<a class="zoomTool" href="product_details.html" title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+				<img src="src/assets/img/shopping-cart-template.png" alt="shopping cart template">
+				<div class="caption">
+				  <h4><a class="defaultBtn" href="product_details.html">VIEW</a> <span class="pull-right">$22.00</span></h4>
+				</div>
+			  </div>
+			</li>
+			<li style="border:0"> &nbsp;</li>
+			<li>
+			  <div class="thumbnail">
+				<a class="zoomTool" href="product_details.html" title="add to cart"><span class="icon-search"></span> QUICK VIEW</a>
+				<img src="src/assets/img/bootstrap-template.png" alt="bootstrap template">
+				<div class="caption">
+				  <h4><a class="defaultBtn" href="product_details.html">VIEW</a> <span class="pull-right">$22.00</span></h4>
+				</div>
+			  </div>
+			</li>
+		  </ul>
+
+	</div>
+	</div>
+	<div class="col-lg-9">
+	<div class="span9">
+    <ul class="breadcrumb">
+    <li><a href="index.html">Home</a> <span class="divider">/</span></li>
+    <li><a href="products.html">Items</a> <span class="divider">/</span></li>
+    <li class="active">Preview</li>
+    </ul>	
+	<div class="well well-small">
+	<div class="row-fluid">
+			<div class="span5">
+			<div id="myCarousel" class="carousel slide cntr">
+                <div class="carousel-inner">
+                  <div class="item active">
+											<!-- <a href="product_details.html"><img [src]=product?.productimage alt=""></a> -->
+                   <a href="#"> <img [src]=vieweddProduct?.productimage alt="" style="width:100%"></a>
+                  </div>
+                  <div class="item">
+											<a href="#"> <img [src]=vieweddProduct?.productimage alt="" style="width:100%"></a>
+										</div>
+                  <div class="item">
+											<a href="#"> <img [src]=vieweddProduct?.productimage alt="" style="width:100%"></a>
+										</div>
+                </div>
+                <a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
+                <a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
+            </div>
+			</div>
+			<div class="span7">
+				<!-- <h3>Name of the Item [$140.00]</h3>
+				<hr class="soft"/> -->
+				<!-- <h6 class="text-muted m-b-15">PRODUCT NAME: <span class="aa" style="font-size: 19px">{{viewedProduct?.productname|titlecase}}</span></h6> -->
+
+				<h3>Product Name:<span class="">{{vieweddProduct?.productname|titlecase}}</span></h3>
+				<hr class="soft"/>
+
+				<h3>Product Code:<span class="">{{vieweddProduct?.productcode}}</span></h3>
+				<hr class="soft"/>
+
+				<h3>Auction Date:<span class="">{{vieweddProduct?.auctiondate}}</span></h3>
+				<hr class="soft"/>
+
+				<h3>Auction Time:<span class="">{{vieweddProduct?.auctiontime}}</span></h3>
+				<hr class="soft"/>
+				
+				<!-- <form class="form-horizontal qtyFrm">
+				  <div class="control-group">
+					<label class="control-label"><span>$140.00</span></label>
+					<div class="controls">
+					<input type="number" class="span6" placeholder="Qty.">
+					</div>
+				  </div>
+				
+				  <div class="control-group">
+					<label class="control-label"><span>Color</span></label>
+					<div class="controls">
+					  <select class="span11">
+						  <option>Red</option>
+						  <option>Purple</option>
+						  <option>Pink</option>
+						  <option>Red</option>
+						</select>
+					</div>
+				  </div>
+				  <div class="control-group">
+					<label class="control-label"><span>Materials</span></label>
+					<div class="controls">
+					  <select class="span11">
+						  <option>Material 1</option>
+						  <option>Material 2</option>
+						  <option>Material 3</option>
+						  <option>Material 4</option>
+						</select>
+					</div>
+				  </div>
+				  <h4>100 items in stock</h4>
+				  <p>Nowadays the lingerie industry is one of the most successful business spheres.
+				  Nowadays the lingerie industry is one of ...
+				  <p>
+				  <button type="submit" class="shopBtn"><span class=" icon-shopping-cart"></span> Add to cart</button>
+				</form> -->
+			</div>
+			</div>
+				<hr class="softn clr"/>
+
+
+            <ul id="productDetail" class="nav nav-tabs">
+              <li class="active"><a href="#home" data-toggle="tab">Product Details</a></li>
+              <li class=""><a href="#profile" data-toggle="tab">Related Products </a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Acceseries <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                  <li><a href="#cat1" data-toggle="tab">Category one</a></li>
+                  <li><a href="#cat2" data-toggle="tab">Category two</a></li>
+                </ul>
+              </li>
+            </ul>
+            <div id="myTabContent" class="tab-content tabWrapper">
+            <div class="tab-pane fade active in" id="home">
+			  <h4>Product Information</h4>
+                <table class="table table-striped">
+				<tbody>
+				<tr class="techSpecRow"><td class="techSpecTD1">Color:</td><td class="techSpecTD2">Black</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Style:</td><td class="techSpecTD2">Apparel,Sports</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Season:</td><td class="techSpecTD2">spring/summer</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Usage:</td><td class="techSpecTD2">fitness</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Sport:</td><td class="techSpecTD2">122855031</td></tr>
+				<tr class="techSpecRow"><td class="techSpecTD1">Brand:</td><td class="techSpecTD2">Shock Absorber</td></tr>
+				</tbody>
+				</table>
+				<h3>Product Details:</h3>
+				<p> {{vieweddProduct?.description|titlecase}} Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Reprehenderit butcher retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid. Aliquip placeat salvia cillum iphone. Seitan aliquip quis cardigan american apparel, butcher voluptate nisi qui.</p>
+			</div>
+			<div class="tab-pane fade" id="profile">
+			<div class="row-fluid">	  
+			<div class="span2">
+				<img src="src/assets/img/d.jpg" alt="">
+			</div>
+			<div class="span6">
+				<h5>Product Name </h5>
+				<p>
+				Nowadays the lingerie industry is one of the most successful business spheres.
+				We always stay in touch with the latest fashion tendencies - 
+				that is why our goods are so popular..
+				</p>
+			</div>
+			<div class="span4 alignR">
+			<form class="form-horizontal qtyFrm">
+			<h3> $140.00</h3>
+			<label class="checkbox">
+				<input type="checkbox">  Adds product to compair
+			</label><br>
+			<div class="btn-group">
+			  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+			  <a href="product_details.html" class="shopBtn">VIEW</a>
+			 </div>
+				</form>
+			</div>
+		</div>
+			<hr class="soft">
+			<div class="row-fluid">	  
+			<div class="span2">
+				<img src="src/assets/img/d.jpg" alt="">
+			</div>
+			<div class="span6">
+				<h5>Product Name </h5>
+				<p>
+				Nowadays the lingerie industry is one of the most successful business spheres.
+				We always stay in touch with the latest fashion tendencies - 
+				that is why our goods are so popular..
+				</p>
+			</div>
+			<div class="span4 alignR">
+			<form class="form-horizontal qtyFrm">
+			<h3> $140.00</h3>
+			<label class="checkbox">
+				<input type="checkbox">  Adds product to compair
+			</label><br>
+			<div class="btn-group">
+			  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+			  <a href="product_details.html" class="shopBtn">VIEW</a>
+			 </div>
+				</form>
+			</div>
+	</div>
+			<hr class="soft"/>
+			<div class="row-fluid">	  
+			<div class="span2">
+				<img src="src/assets/img/d.jpg" alt="">
+			</div>
+			<div class="span6">
+				<h5>Product Name </h5>
+				<p>
+				Nowadays the lingerie industry is one of the most successful business spheres.
+				We always stay in touch with the latest fashion tendencies - 
+				that is why our goods are so popular..
+				</p>
+			</div>
+			<div class="span4 alignR">
+			<form class="form-horizontal qtyFrm">
+			<h3> $140.00</h3>
+			<label class="checkbox">
+				<input type="checkbox">  Adds product to compair
+			</label><br>
+			<div class="btn-group">
+			  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+			  <a href="product_details.html" class="shopBtn">VIEW</a>
+			 </div>
+				</form>
+			</div>
+	</div>
+			<hr class="soft"/>
+			<div class="row-fluid">	  
+					<div class="span2">
+						<img src="src/assets/img/d.jpg" alt="">
+					</div>
+					<div class="span6">
+						<h5>Product Name </h5>
+						<p>
+						Nowadays the lingerie industry is one of the most successful business spheres.
+						We always stay in touch with the latest fashion tendencies - 
+						that is why our goods are so popular..
+						</p>
+					</div>
+					<div class="span4 alignR">
+					<form class="form-horizontal qtyFrm">
+					<h3> $140.00</h3>
+					<label class="checkbox">
+						<input type="checkbox">  Adds product to compair
+					</label><br>
+					<div class="btn-group">
+					  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+					  <a href="product_details.html" class="shopBtn">VIEW</a>
+					 </div>
+						</form>
+					</div>
+			</div>
+			<hr class="soften"/>
+			<div class="row-fluid">	  
+					<div class="span2">
+						<img src="src/assets/img/d.jpg" alt="">
+					</div>
+					<div class="span6">
+						<h5>Product Name </h5>
+						<p>
+						Nowadays the lingerie industry is one of the most successful business spheres.
+						We always stay in touch with the latest fashion tendencies - 
+						that is why our goods are so popular..
+						</p>
+					</div>
+					<div class="span4 alignR">
+					<form class="form-horizontal qtyFrm">
+					<h3> $140.00</h3>
+					<label class="checkbox">
+						<input type="checkbox">  Adds product to compair
+					</label><br>
+					<div class="btn-group">
+					  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+					  <a href="product_details.html" class="shopBtn">VIEW</a>
+					 </div>
+						</form>
+					</div>
+			</div>
+			</div>
+              <div class="tab-pane fade" id="cat1">
+                <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork. Williamsburg banh mi whatever gluten-free, carles pitchfork biodiesel fixie etsy retro mlkshk vice blog. Scenester cred you probably haven't heard of them, vinyl craft beer blog stumptown. Pitchfork sustainable tofu synth chambray yr.</p>
+              <br>
+              <br>
+			  <div class="row-fluid">	  
+					<div class="span2">
+						<img src="src/assets/img/b.jpg" alt="">
+					</div>
+					<div class="span6">
+						<h5>Product Name </h5>
+						<p>
+						Nowadays the lingerie industry is one of the most successful business spheres.
+						We always stay in touch with the latest fashion tendencies - 
+						that is why our goods are so popular..
+						</p>
+					</div>
+					<div class="span4 alignR">
+					<form class="form-horizontal qtyFrm">
+					<h3> $140.00</h3>
+					<label class="checkbox">
+						<input type="checkbox">  Adds product to compair
+					</label><br>
+					<div class="btn-group">
+					  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+					  <a href="product_details.html" class="shopBtn">VIEW</a>
+					 </div>
+						</form>
+					</div>
+			</div>
+			<hr class="soften"/>
+			<div class="row-fluid">	  
+					<div class="span2">
+						<img src="src/assets/img/a.jpg" alt="">
+					</div>
+					<div class="span6">
+						<h5>Product Name </h5>
+						<p>
+						Nowadays the lingerie industry is one of the most successful business spheres.
+						We always stay in touch with the latest fashion tendencies - 
+						that is why our goods are so popular..
+						</p>
+					</div>
+					<div class="span4 alignR">
+					<form class="form-horizontal qtyFrm">
+					<h3> $140.00</h3>
+					<label class="checkbox">
+						<input type="checkbox">  Adds product to compair
+					</label><br>
+					<div class="btn-group">
+					  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+					  <a href="product_details.html" class="shopBtn">VIEW</a>
+					 </div>
+						</form>
+					</div>
+			</div>
+			<hr class="soften"/>
+			  </div>
+              <div class="tab-pane fade" id="cat2">
+                
+				<div class="row-fluid">	  
+					<div class="span2">
+						<img src="src/assets/img/d.jpg" alt="">
+					</div>
+					<div class="span6">
+						<h5>Product Name </h5>
+						<p>
+						Nowadays the lingerie industry is one of the most successful business spheres.
+						We always stay in touch with the latest fashion tendencies - 
+						that is why our goods are so popular..
+						</p>
+					</div>
+					<div class="span4 alignR">
+					<form class="form-horizontal qtyFrm">
+					<h3> $140.00</h3>
+					<label class="checkbox">
+						<input type="checkbox">  Adds product to compair
+					</label><br>
+					<div class="btn-group">
+					  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+					  <a href="product_details.html" class="shopBtn">VIEW</a>
+					 </div>
+						</form>
+					</div>
+			</div>
+			<hr class="soften"/>
+			<div class="row-fluid">	  
+					<div class="span2">
+						<img src="src/assets/img/d.jpg" alt="">
+					</div>
+					<div class="span6">
+						<h5>Product Name </h5>
+						<p>
+						Nowadays the lingerie industry is one of the most successful business spheres.
+						We always stay in touch with the latest fashion tendencies - 
+						that is why our goods are so popular..
+						</p>
+					</div>
+					<div class="span4 alignR">
+					<form class="form-horizontal qtyFrm">
+					<h3> $140.00</h3>
+					<label class="checkbox">
+						<input type="checkbox">  Adds product to compair
+					</label><br>
+					<div class="btn-group">
+					  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+					  <a href="product_details.html" class="shopBtn">VIEW</a>
+					 </div>
+						</form>
+					</div>
+			</div>
+			<hr class="soften"/>
+			<div class="row-fluid">	  
+					<div class="span2">
+						<img src="src/assets/img/d.jpg" alt="">
+					</div>
+					<div class="span6">
+						<h5>Product Name </h5>
+						<p>
+						Nowadays the lingerie industry is one of the most successful business spheres.
+						We always stay in touch with the latest fashion tendencies - 
+						that is why our goods are so popular..
+						</p>
+					</div>
+					<div class="span4 alignR">
+					<form class="form-horizontal qtyFrm">
+					<h3> $140.00</h3>
+					<label class="checkbox">
+						<input type="checkbox">  Adds product to compair
+					</label><br>
+					<div class="btn-group">
+					  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+					  <a href="product_details.html" class="shopBtn">VIEW</a>
+					 </div>
+						</form>
+					</div>
+			</div>
+			<hr class="soften"/>
+			<div class="row-fluid">	  
+					<div class="span2">
+						<img src="src/assets/img/d.jpg" alt="">
+					</div>
+					<div class="span6">
+						<h5>Product Name </h5>
+						<p>
+						Nowadays the lingerie industry is one of the most successful business spheres.
+						We always stay in touch with the latest fashion tendencies - 
+						that is why our goods are so popular..
+						</p>
+					</div>
+					<div class="span4 alignR">
+					<form class="form-horizontal qtyFrm">
+					<h3> $140.00</h3>
+					<label class="checkbox">
+						<input type="checkbox">  Adds product to compair
+					</label><br>
+					<div class="btn-group">
+					  <a href="product_details.html" class="defaultBtn"><span class=" icon-shopping-cart"></span> Add to cart</a>
+					  <a href="product_details.html" class="shopBtn">VIEW</a>
+					 </div>
+						</form>
+					</div>
+			</div>
+			<hr class="soften"/>
+			
+				</div>
+            </div>
+
+</div>
+</div>
+</div>
+</div> <!-- Body wrapper -->
+ <!-- 
+  Clients 
+  -->
+  <section class="our_client">
+    <hr class="soften"/>
+    <h4 class="title cntr"><span class="text">OUR PARTNERS</span></h4>
+    <hr class="soften"/>
+    <div class="row">
+      <div class="span2">
+        <a href="#"><img alt="" src="src/assets/userlanding/img/1.png"></a>
+      </div>
+      <div class="span2">
+        <a href="#"><img alt="" src="src/assets/userlanding/img/2.png"></a>
+      </div>
+      <div class="span2">
+        <a href="#"><img alt="" src="src/assets/userlanding/img/3.png"></a>
+      </div>
+      <div class="span2">
+        <a href="#"><img alt="" src="src/assets/userlanding/img/4.png"></a>
+      </div>
+      <div class="span2">
+        <a href="#"><img alt="" src="src/assets/userlanding/img/5.png"></a>
+      </div>
+      <div class="span2">
+        <a href="#"><img alt="" src="src/assets/userlanding/img/6.png"></a>
+      </div>
+    </div>
+  </section>
+  
+  <!--
+  Footer
+  -->
+  <footer class="footer">
+  <div class="row-fluid">
+  <div class="span4">
+  <h5>Your Account</h5>
+  <a href="#">YOUR ACCOUNT</a><br>
+  <a href="#">PERSONAL INFORMATION</a><br>
+  <!-- <a href="#">ADDRESSES</a><br> -->
+  <!-- <a href="#">DISCOUNT</a><br> -->
+  <a href="#">ORDER HISTORY</a><br>
+   </div>
+  <div class="span4">
+  <h5>Iinformation</h5>
+  <a href="contact.html">CONTACT US</a><br>
+  <a href="#">ABOUT US</a><br>
+  <!-- <a href="#">SITEMAP</a><br> -->
+  <!-- <a href="#">LEGAL NOTICE</a><br> -->
+  <!-- <a href="#">TERMS AND CONDITIONS</a><br> -->
+   </div>
+  <div class="span4">
+  <h5>Our Offer</h5>
+  <a href="#">NEW PRODUCTS</a> <br>
+  <a href="#">TOP SELLERS</a><br>
+  <a href="#">SPECIALS</a><br>
+  <a href="#">MANUFACTURERS</a><br>
+  <a href="#">SUPPLIERS</a> <br/>
+   </div>
+  
+   </div>
+  </footer>
+  </div><!-- /container -->
+  
+  <div class="copyright">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#"><img src="src/assets/userlanding/img/maestro.png" alt="payment"></a>
+      <a href="#"><img src="src/assets/userlanding/img/mc.png" alt="payment"></a>
+      <a href="#"><img src="src/assets/userlanding/img/pp.png" alt="payment"></a>
+      <a href="#"><img src="src/assets/userlanding/img/visa.png" alt="payment"></a>
+      <a href="#"><img src="src/assets/userlanding/img/disc.png" alt="payment"></a>
+    </p>
+    <!-- <span>Copyright &copy; 2013<br> bootstrap ecommerce shopping template</span> -->
+  </div>
+  </div>
+  <a href="#" class="gotop"><i class="icon-double-angle-up"></i></a>
+  
+</div>

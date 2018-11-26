@@ -1,0 +1,80 @@
+
+<div class="page-wrapper">
+    <div class="page-content--bge5">
+        <div class="container">
+            <div class="login-wrap">
+                <div class="login-content">
+                    <div class="login-logo">
+                        <a href="#">
+                            <img src="src/assets/realauctions/images/icon/logo.png" alt="CoolAdmin">
+                        </a>
+                    </div>
+                  <!--<form class="form-horizontal loginFrm" [formGroup]="userAccessForm" (ngSubmit)="onSubmitUserAccess()">-->
+                    <!--<div class="form-group">-->
+                      <!--<input type="text" class="span2" id="inputEmail" formControlName="username" placeholder="Email">-->
+                    <!--</div>-->
+                    <!--<div class="control-group">-->
+                      <!--<input type="password" class="span2" id="inputPassword" formControlName="password" placeholder="Password">-->
+                    <!--</div>-->
+                    <!--<div class="control-group">-->
+                      <!--<label class="checkbox">-->
+                        <!--<input type="checkbox"> Remember me-->
+                      <!--</label>-->
+                      <!--<button type="submit" class="shopBtn btn-block">Sign in</button>-->
+                    <!--</div>-->
+                  <!--</form>-->
+                  <form [formGroup]="addNewBidsForm" (ngSubmit)="onSubmitAddNewBidsForm()">
+                  <div class="login-form">
+                        <!-- <form action="" method="post"> -->
+                              <!--<div class="form-group">-->
+                                  <!--<input class="au-input au-input&#45;&#45;full" type="hidden" formControlName="_id">-->
+                              <!--</div>-->
+                              <div class="form-group">
+                                <label>User Id</label>
+                                <input class="au-input au-input--full" type="text" placeholder="" formControlName="userid">
+                            </div>
+                            <div class="form-group">
+                              <label>Auction Id</label>
+                              <input class="au-input au-input--full" type="text" formControlName="auction id" placeholder="Enter Auction ID">
+                          </div>
+                          <div class="form-group">
+                              <label>Final Bid</label>
+                              <input class="au-input au-input--full" type="text" placeholder="Enter Email" formControlName="finalbid">
+                          </div>
+                              <div class="form-group">
+                                <label>Bid Date</label>
+                                <input class="au-input au-input--full" type="datetime-local" placeholder="Enter Bid Date and Time" formControlName="biddate">
+                              </div>
+                              <div class="form-group">
+                                <label>Bid Time</label>
+                                <input class="au-input au-input--full" type="number" placeholder="Enter Auction Date" formControlName="bidtime">
+                              </div>
+                              <!-- <div class="form-group">
+                                <label>Bid Time</label>
+                                <input class="au-input au-input--full" type="number" placeholder="Enter Auction Time" formControlName="auctiuontime">
+                              </div> -->
+                             <!--<div class="login-checkbox">-->
+                                <!--<label>-->
+                                    <!--<input type="checkbox" name="remember">Remember Me-->
+                                <!--</label>-->
+                                <!--<label>-->
+                                    <!--<a href="#">Forgotten Password?</a>-->
+                                <!--</label>-->
+                            <!--</div>-->
+                            <button class="au-btn au-btn--block au-btn--green m-b-20" type="submit">Submit</button><br>
+                            <!--<button class="btn btn&#45;&#45;block au-btn&#45;&#45;green m-b-20" type="button"  (click)="resetForm(registrationForm)">Reset"</button><br>-->
+                        <!--<div class="register-link">-->
+                            <!--&lt;!&ndash;<p>&ndash;&gt;-->
+                                <!--&lt;!&ndash;Don't you have account?&ndash;&gt;-->
+                                <!--&lt;!&ndash;<a href="#">Sign Up Here</a>&ndash;&gt;-->
+                            <!--&lt;!&ndash;</p>&ndash;&gt;-->
+                        <!--</div>-->
+                    </div>
+                  </form>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+  </div>
+  
