@@ -1,6 +1,6 @@
 # Auctions
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.It is a complete working app with your images automatically saved to firebase when you add images. Email femishotolaa@gmail.com if you run into any issues.
 
 ## Development server
 
